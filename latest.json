@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "Trade Builder, dev isolation, and public updater hosting",
-  "pub_date": "2026-06-26T07:18:49.109Z",
+  "version": "0.2.9",
+  "notes": "Release 0.2.9: pricing platform, benchmark scan, eBay sold comps, catalog fixes, updater reliability",
+  "pub_date": "2026-07-09T06:04:19.742Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENxaG4vZnQ2RlZoQWwrbzJjOWErekd5Z21YdElRTFNTUnA0cGxjbE91MnVnV0ozblFUNStmYjNPTm9GR1ZleUN5bndOeDQ2WXFTeGJ2L2kzdjZUT2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDU4MDc0CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuOF94NjQtc2V0dXAuZXhlCkY4NzR5alErOEtYYmZWMWRHd0xRWWdiWUVXZnZJczBodGhYRzMwOE5odDM3TkVrUVR3T3k4S3lTOEdkN0k1dTBPTVdNRXVYb1U5Ni9GZXUrbVUwNkN3PT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.8/Benchmark.TCG_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENMRm5uRllQUnVXYlBIVkk2ZDlncFUyRXJhUGNBajBXRVlEVEgvcGR0YlRqekxIckVSVmF2bFJqZk5sVDFKbU55YmxSSjlVSzF4ZUduRi9DeFBNeWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTc3MDUxCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuOV94NjQtc2V0dXAuZXhlCnMvY2RXV3ptNHFLQk1FaDRYd2QvV1dJaEZzaUNEUFdWL2JkRytpVlBHamp5YUM3R3FQb0FxazVTekZBRnlhQ25LSllxN3RzRGphVTI4dkVYRExwS0NnPT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.9/Benchmark.TCG_0.2.9_x64-setup.exe"
     }
   }
 }
