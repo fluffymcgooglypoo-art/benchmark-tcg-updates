@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
-  "notes": "Release 0.2.9: pricing platform, benchmark scan, eBay sold comps, catalog fixes, updater reliability",
-  "pub_date": "2026-07-09T06:04:19.742Z",
+  "version": "0.2.10",
+  "notes": "Hotfix 0.2.10: fix white screen after 0.2.9 update (Tauri WebView asset loading — relative paths, no crossorigin on bundled scripts).",
+  "pub_date": "2026-07-09T07:01:57.096Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENMRm5uRllQUnVXYlBIVkk2ZDlncFUyRXJhUGNBajBXRVlEVEgvcGR0YlRqekxIckVSVmF2bFJqZk5sVDFKbU55YmxSSjlVSzF4ZUduRi9DeFBNeWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTc3MDUxCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuOV94NjQtc2V0dXAuZXhlCnMvY2RXV3ptNHFLQk1FaDRYd2QvV1dJaEZzaUNEUFdWL2JkRytpVlBHamp5YUM3R3FQb0FxazVTekZBRnlhQ25LSllxN3RzRGphVTI4dkVYRExwS0NnPT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.9/Benchmark.TCG_0.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEtRUVc3QVBTN3NZYzVveGxTc3lFWmEvRyttUVJqV2xGNUlmbE0wUTJzZ3FFK3luM1hHS09xeGpZNkljekVPblRNNXVSRTN4NUNJRy9xZzVrOTFkdncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTgwNTEzCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTBfeDY0LXNldHVwLmV4ZQp3bzM3Tk81VkFoVHpYRExqVkw4ak03bXFtMnUrc2h3eVpxU085L0xwNndlcDFody9RWE1jSFhtT0FObVhlclIxem05TG5uMEpTTGVCNS9XQzNwVzFBZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.10/Benchmark.TCG_0.2.10_x64-setup.exe"
     }
   }
 }
