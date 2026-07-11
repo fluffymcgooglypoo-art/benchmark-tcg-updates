@@ -1,11 +1,11 @@
 {
-  "version": "0.2.12",
-  "notes": "0.2.12: Fix NIIMBOT D110 BLE connect/print (persistent GATT client, direct UUIDs). Label printer reliability improvements.",
-  "pub_date": "2026-07-11T19:52:54.229Z",
+  "version": "0.2.13",
+  "notes": "0.2.13: Add Card identity-first pricing — set condition/edition/printing on lookup before Benchmark scan; Reverse Holo/Stamped matching; edition defaults to Regular/Unlimited; quieter Benchmark Insights.",
+  "pub_date": "2026-07-11T20:34:33.002Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE8xQWJVQWZnbkd4aDhCd1lGTmhHL2ZzMUlwNldPcDBScW1pWHRTYnFNOHRKaENNZzBIM3BUcERSTlBvenVieHdLSXF1VkNhbEZ1QmU2L0plK041ZXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzk5NDc2CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTJfeDY0LXNldHVwLmV4ZQpIS0Nqc2R0ZlFBMHprcUpDdC9HYWxPamdkSlM1eExvNHZ1bisrRzlCcFk2Ny8xZmNoWVZ4N0tveXpjN3BDUzhKMVFnMTB0RXVRNWNSVm5ZUzNqL05EZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.12/Benchmark.TCG_0.2.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExyN1RnYmdtK1RlTk9oR1RXNFl4TUEwcjNxdFhGdWljNUYxTEp1QUxVVWo3bW5OOWttQ1RCdmlnZE1KeEhWSlhpakUvUkRVSTdqSXRSZEx2czVveVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODAyMDQyCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTNfeDY0LXNldHVwLmV4ZQpkWDFOUEJlUDJSci9sM09OTFA3RER6YnhNMkpqTFVpeVBvUERxZEJEd3dXZmI2cTFMK3daYUxLR3BFckZ5dDRQMS9XVjFzdk5IUlFBWElyUVdEL1NDQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.13/Benchmark.TCG_0.2.13_x64-setup.exe"
     }
   }
 }
