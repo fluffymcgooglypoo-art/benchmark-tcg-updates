@@ -1,11 +1,11 @@
 {
-  "version": "0.2.11",
-  "notes": "Hotfix 0.2.11: fix white screen — restore default Tauri main window (0.2.9+ blocked http://tauri.localhost). Includes 0.2.9 pricing features.",
-  "pub_date": "2026-07-09T07:25:19.904Z",
+  "version": "0.2.12",
+  "notes": "0.2.12: Fix NIIMBOT D110 BLE connect/print (persistent GATT client, direct UUIDs). Label printer reliability improvements.",
+  "pub_date": "2026-07-11T19:52:54.229Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERsaDh3Q1QybmdkanJUZGUxd0lacHYwd2ZobGNzblVIaXdrZnczbXYxZEI5b013OUYrTVBDaElLdjJPS09KcmMrdWlkWGxjUmR0d0pHOG9UMnpzR3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTgxOTE2CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTFfeDY0LXNldHVwLmV4ZQpDak9oamd3ajNGc041RTdJR2d6SHQ3bThldXVCUHFsclo2cVhiT2ZFNVVHd2w5eFZDRFdlR3crMGh2TUM4RUNCanBiMWlrZTVZcEZLZk9ad1F4dG5Ddz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.11/Benchmark.TCG_0.2.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE8xQWJVQWZnbkd4aDhCd1lGTmhHL2ZzMUlwNldPcDBScW1pWHRTYnFNOHRKaENNZzBIM3BUcERSTlBvenVieHdLSXF1VkNhbEZ1QmU2L0plK041ZXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzk5NDc2CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTJfeDY0LXNldHVwLmV4ZQpIS0Nqc2R0ZlFBMHprcUpDdC9HYWxPamdkSlM1eExvNHZ1bisrRzlCcFk2Ny8xZmNoWVZ4N0tveXpjN3BDUzhKMVFnMTB0RXVRNWNSVm5ZUzNqL05EZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.12/Benchmark.TCG_0.2.12_x64-setup.exe"
     }
   }
 }
