@@ -1,11 +1,11 @@
 {
-  "version": "0.2.13",
-  "notes": "0.2.13: Add Card identity-first pricing — set condition/edition/printing on lookup before Benchmark scan; Reverse Holo/Stamped matching; edition defaults to Regular/Unlimited; quieter Benchmark Insights.",
-  "pub_date": "2026-07-11T20:34:33.002Z",
+  "version": "0.2.14",
+  "notes": "0.2.14: Faster Benchmark Pricing — soft vs Force Rescan, 12h TCG/eBay cache reuse, 2-card live concurrency, sold-history cascade, layout polish, Edit Card identity fields.",
+  "pub_date": "2026-07-11T23:03:06.336Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExyN1RnYmdtK1RlTk9oR1RXNFl4TUEwcjNxdFhGdWljNUYxTEp1QUxVVWo3bW5OOWttQ1RCdmlnZE1KeEhWSlhpakUvUkRVSTdqSXRSZEx2czVveVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODAyMDQyCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTNfeDY0LXNldHVwLmV4ZQpkWDFOUEJlUDJSci9sM09OTFA3RER6YnhNMkpqTFVpeVBvUERxZEJEd3dXZmI2cTFMK3daYUxLR3BFckZ5dDRQMS9XVjFzdk5IUlFBWElyUVdEL1NDQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.13/Benchmark.TCG_0.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE1NWjhVQlR4ck9NTFRvN2dVSUUwbE9ZZXE1ajhSN3ROS0k0WUoyNVV2M1hvcnI5WXEzNmhjSFlrMmtGQ1d2OXRrVjg0RFJIY1gxeGVvK0R0V3YydGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODEwOTgzCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTRfeDY0LXNldHVwLmV4ZQp6cjNEQ1dqVUszUHpZTXBVWWpTaFQveW9MUVBRc0Z4WVhxTGlrV3lIaC8xUVBDRTM2NXhvRnJGcHpDOElhbzB3ekV3b0hRTlVIWFFuRjFuSThBSHpBQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.14/Benchmark.TCG_0.2.14_x64-setup.exe"
     }
   }
 }
