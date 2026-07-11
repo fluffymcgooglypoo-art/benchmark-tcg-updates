@@ -1,6 +1,6 @@
 {
   "version": "0.2.14",
-  "notes": "0.2.14: Faster Benchmark Pricing — soft vs Force Rescan, 12h TCG/eBay cache reuse, 2-card live concurrency, sold-history cascade, layout polish, Edit Card identity fields.",
+  "notes": "0.2.14: Faster Benchmark Pricing â€” soft vs Force Rescan, 12h TCG/eBay cache reuse, 2-card live concurrency, sold-history cascade, layout polish, Edit Card identity fields.",
   "pub_date": "2026-07-11T23:03:06.336Z",
   "platforms": {
     "windows-x86_64": {
