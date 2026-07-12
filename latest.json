@@ -1,11 +1,11 @@
 {
-  "version": "0.2.15",
-  "notes": "Persistent pricing jobs, TCG Printing identity, Add Card printing gate, sticky cancel, and more accurate 1st edition comps",
-  "pub_date": "2026-07-12T01:47:40.604Z",
+  "version": "0.2.16",
+  "notes": "Graded and sealed pricing lanes, Card Form (Raw/Sealed/Graded), exact graded eBay comps, sealed eBay-only search with sealed in _nkw, conflict rejection for sealed+graded.",
+  "pub_date": "2026-07-12T03:57:45.879Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEx5OVNBS1VBREl3UVpNYmFFRFhWVFRONjZkenN2ZHJIbVNFMko3dnh0Y3grcmg0YnhkWFpybHp5WVZxdWYrVXRoTVJLenFlWFc5QTF4Ny9OeGVXR1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODIwODU3CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTVfeDY0LXNldHVwLmV4ZQoxS05BY3h6ZHFRRjR6WUw5MWhsTy9UcU9nZ0NLODlKdTlzdVBtbllPZzZYZWJGRTRkZWVqYTlhaVZzWE9QVXRkOFV2M0p5bTZsNzFBMFZURWZ4N0JEUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.15/Benchmark.TCG_0.2.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEFBcFkxMTVJNlhnZDhrZ3RwQVVCTUlxYis4emRId1AzZ1VLVC8vSURkRTM0SEhURjhnN3FCWjZ1cGhUK3RVUncrWk9tZWdaSmM5Y3NaRDVWRmhKdVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODI4NjYyCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTZfeDY0LXNldHVwLmV4ZQovaFQ3WGdIRHVtZjQ4WEptNlc4VG9yL2dLbkRWSmZRQXNDMFJ1QjQybi9EekY0UEkxL3B2UUM0YjdMMitiTTEyM25ocDkzSVNkbmk2S04wODhwYlRDZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.16/Benchmark.TCG_0.2.16_x64-setup.exe"
     }
   }
 }
