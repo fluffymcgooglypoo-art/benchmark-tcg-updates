@@ -1,11 +1,11 @@
 {
-  "version": "0.2.16",
-  "notes": "Graded and sealed pricing lanes, Card Form (Raw/Sealed/Graded), exact graded eBay comps, sealed eBay-only search with sealed in _nkw, conflict rejection for sealed+graded.",
-  "pub_date": "2026-07-12T03:57:45.879Z",
+  "version": "0.2.17",
+  "notes": "Phase 3: 12h TCG/eBay source reuse, Add Card durable cache, Fair Value low-bias (Giratina), Edit Card catalog lookup",
+  "pub_date": "2026-07-12T06:47:35.434Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEFBcFkxMTVJNlhnZDhrZ3RwQVVCTUlxYis4emRId1AzZ1VLVC8vSURkRTM0SEhURjhnN3FCWjZ1cGhUK3RVUncrWk9tZWdaSmM5Y3NaRDVWRmhKdVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODI4NjYyCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTZfeDY0LXNldHVwLmV4ZQovaFQ3WGdIRHVtZjQ4WEptNlc4VG9yL2dLbkRWSmZRQXNDMFJ1QjQybi9EekY0UEkxL3B2UUM0YjdMMitiTTEyM25ocDkzSVNkbmk2S04wODhwYlRDZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.16/Benchmark.TCG_0.2.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERodWpNMFMvZkRrZVEyeW1lQk1wZHkrUFFKTDQzRTFoWFhmVmFnR3M2UW8zckd2UWgzTjJKRnhIV2J2SXBiSXpVNE9OSCtlZlJUU2c1dUM2UnBLbmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODM4ODUyCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTdfeDY0LXNldHVwLmV4ZQpSRGVZZ2VHRndNYkRZcnNTeXhZSDhPOGRSbWdUcGkzM2lCeGMwTHdhK0xrc0lPN0tLU1VsMUtGQzE5dFJrVmc3MGVYQUYrQU9mQjNiTDFtYzBQTkhDdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.17/Benchmark.TCG_0.2.17_x64-setup.exe"
     }
   }
 }
