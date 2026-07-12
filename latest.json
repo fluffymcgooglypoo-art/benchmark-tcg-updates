@@ -1,11 +1,11 @@
 {
-  "version": "0.2.14",
-  "notes": "0.2.14: Faster Benchmark Pricing â€” soft vs Force Rescan, 12h TCG/eBay cache reuse, 2-card live concurrency, sold-history cascade, layout polish, Edit Card identity fields.",
-  "pub_date": "2026-07-11T23:03:06.336Z",
+  "version": "0.2.15",
+  "notes": "Persistent pricing jobs, TCG Printing identity, Add Card printing gate, sticky cancel, and more accurate 1st edition comps",
+  "pub_date": "2026-07-12T01:47:40.604Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE1NWjhVQlR4ck9NTFRvN2dVSUUwbE9ZZXE1ajhSN3ROS0k0WUoyNVV2M1hvcnI5WXEzNmhjSFlrMmtGQ1d2OXRrVjg0RFJIY1gxeGVvK0R0V3YydGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODEwOTgzCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTRfeDY0LXNldHVwLmV4ZQp6cjNEQ1dqVUszUHpZTXBVWWpTaFQveW9MUVBRc0Z4WVhxTGlrV3lIaC8xUVBDRTM2NXhvRnJGcHpDOElhbzB3ekV3b0hRTlVIWFFuRjFuSThBSHpBQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.14/Benchmark.TCG_0.2.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEx5OVNBS1VBREl3UVpNYmFFRFhWVFRONjZkenN2ZHJIbVNFMko3dnh0Y3grcmg0YnhkWFpybHp5WVZxdWYrVXRoTVJLenFlWFc5QTF4Ny9OeGVXR1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODIwODU3CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTVfeDY0LXNldHVwLmV4ZQoxS05BY3h6ZHFRRjR6WUw5MWhsTy9UcU9nZ0NLODlKdTlzdVBtbllPZzZYZWJGRTRkZWVqYTlhaVZzWE9QVXRkOFV2M0p5bTZsNzFBMFZURWZ4N0JEUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.15/Benchmark.TCG_0.2.15_x64-setup.exe"
     }
   }
 }
