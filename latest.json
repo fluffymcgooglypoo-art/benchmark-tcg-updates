@@ -1,11 +1,11 @@
 {
-  "version": "0.2.18",
-  "notes": "0.2.18: Reprice cache-first + Collection Lot sequential pricing",
-  "pub_date": "2026-07-12T17:59:02.328Z",
+  "version": "0.2.19",
+  "notes": "Collection Lot review workspace (BP parity, multi-copy expand), Prepare All Inventory, Edit Card NFC",
+  "pub_date": "2026-07-13T06:21:34.772Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE9rZ0JOZ29FM2lTSkwzVGdHU2tzQldjYXMyUlVJOXlYKzN4M20wejZ1TEpqd1pxdGpHc2NjZkhla3Jrc2lsUisrbTdHcE5ONXEyVlpta0JleDVYbWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODc5MTM5CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMThfeDY0LXNldHVwLmV4ZQpkaUhwcXZmdlMvb21DS3ZnQ0k1QnhWbjBzQldWbGRQalp3cHY1N1BwOVQ2bk5wclBxbmdhdm9kVC9ZRHgvRzBMUnRTdjN5U2pVMUdpWDJNUUx5Q2NEUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.18/Benchmark.TCG_0.2.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEh2VDBTN0VvV3U2dDJ4MS93NEdWRXN0T3hTMFpvVWVWNlM4TjgyS09BbHEyRjJHTHhkZThmQnFWTTBBOXB0cXBvNmRtdnAyd0dKV1ROUjN1OHpHR1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTIzNjQ1CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTlfeDY0LXNldHVwLmV4ZQpVZTVGVGxDckFpVFVYcFdVaTRhbFAwbmF5Qnl4ckgxRXh5Sk5FQUM4WjVsR3kzRGVCQStITVlJV2szS0dGYlRaTXY5eFJ6aFdzdU5zeGZwaHg0cm5DUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.19/Benchmark.TCG_0.2.19_x64-setup.exe"
     }
   }
 }
