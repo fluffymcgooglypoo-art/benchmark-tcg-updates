@@ -1,11 +1,11 @@
 {
-  "version": "0.2.19",
-  "notes": "Collection Lot review workspace (BP parity, multi-copy expand), Prepare All Inventory, Edit Card NFC",
-  "pub_date": "2026-07-13T06:21:34.772Z",
+  "version": "0.2.20",
+  "notes": "Benchmark TCG 0.2.20 - Trade Builder polish (editable trade names, trade-credit sort, under-1-dollar spread view, clearly labeled market + trade-credit totals, larger catalog images), bulk market-price label printing on Trade Builder and Collection Lot pricing, Collection Lot workflow polish, and Device Sync v1 (desktop and laptop snapshot handoff).",
+  "pub_date": "2026-07-17T01:55:40.076Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEh2VDBTN0VvV3U2dDJ4MS93NEdWRXN0T3hTMFpvVWVWNlM4TjgyS09BbHEyRjJHTHhkZThmQnFWTTBBOXB0cXBvNmRtdnAyd0dKV1ROUjN1OHpHR1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTIzNjQ1CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMTlfeDY0LXNldHVwLmV4ZQpVZTVGVGxDckFpVFVYcFdVaTRhbFAwbmF5Qnl4ckgxRXh5Sk5FQUM4WjVsR3kzRGVCQStITVlJV2szS0dGYlRaTXY5eFJ6aFdzdU5zeGZwaHg0cm5DUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.19/Benchmark.TCG_0.2.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExncWd6QzhaOUNBcitLVDc0RkQxYklmakE4dzNaZ0syL0U5N0UzN2RPY2lBLzc3SFJsNWtNTzltRzVqOWRXQlo0VHZINm1vSFQyQms1YVQySjlMQXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjUzMzM2CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjBfeDY0LXNldHVwLmV4ZQpiM25WK1dDaUEvdFRMc2ZpWHRWOTVsdGlKamVLczZmYXhPR1hHNlJ6QWhkR2lHbGcyNXQzSzhIeWdnTDNPZ2VlUE5UbkJTSUg5bjZRWnhtdnFxaWNDQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.20/Benchmark.TCG_0.2.20_x64-setup.exe"
     }
   }
 }
