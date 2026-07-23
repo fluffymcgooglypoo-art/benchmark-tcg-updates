@@ -1,11 +1,11 @@
 {
-  "version": "0.2.20",
-  "notes": "Benchmark TCG 0.2.20 - Trade Builder polish (editable trade names, trade-credit sort, under-1-dollar spread view, clearly labeled market + trade-credit totals, larger catalog images), bulk market-price label printing on Trade Builder and Collection Lot pricing, Collection Lot workflow polish, and Device Sync v1 (desktop and laptop snapshot handoff).",
-  "pub_date": "2026-07-17T01:55:40.076Z",
+  "version": "0.2.21",
+  "notes": "0.2.21 — Trade bulk label print modes: by price with card thumbs, by entry order, resume after paper out",
+  "pub_date": "2026-07-23T04:22:12.786Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExncWd6QzhaOUNBcitLVDc0RkQxYklmakE4dzNaZ0syL0U5N0UzN2RPY2lBLzc3SFJsNWtNTzltRzVqOWRXQlo0VHZINm1vSFQyQms1YVQySjlMQXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjUzMzM2CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjBfeDY0LXNldHVwLmV4ZQpiM25WK1dDaUEvdFRMc2ZpWHRWOTVsdGlKamVLczZmYXhPR1hHNlJ6QWhkR2lHbGcyNXQzSzhIeWdnTDNPZ2VlUE5UbkJTSUg5bjZRWnhtdnFxaWNDQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.20/Benchmark.TCG_0.2.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEVWOXEyVEFMY2xZTUcvWmN5Ti9jb3lZVEpTNGpCcXptRjU2WmpFd2J4VHMxYTlORjExc3FXRUcyU2dHQVVJQmhmMnB2dmR3YVYzNnluOVlaK2Q2a1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzgwNTI5CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjFfeDY0LXNldHVwLmV4ZQo2Wll3OWhsdEVhZFRCVFZsOW5GelVCcUFzZVZHVTVkcWtNa1JaVHM4ODJmdnF5SUVZQ3hEeDVJV3U4RjloakpmVzNESDVVMk5CVVFvRS9iZytNVEZDUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.21/Benchmark.TCG_0.2.21_x64-setup.exe"
     }
   }
 }
