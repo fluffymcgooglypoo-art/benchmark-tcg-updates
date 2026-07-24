@@ -1,11 +1,11 @@
 {
-  "version": "0.2.22",
-  "notes": "0.2.22: Inventory inline edit/print, printer reconnect modal, and Streamer Mode privacy filter.",
-  "pub_date": "2026-07-23T05:29:43.038Z",
+  "version": "0.2.23",
+  "notes": "Smart eBay gating (TCG-first for modern English raw) + eBay request efficiency and backoff",
+  "pub_date": "2026-07-24T16:00:22.900Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE1RTGFQNVM3NkQ5THo5RUlycFR3alN0Qm9wVEJDYVY2OERxejF4SytTalpyLzZLSWlUS3NXeG9aOGdJUWRFTDhhZ05JaGxPWGl6OEpBbjlqMkpWeWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzg0NTc5CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjJfeDY0LXNldHVwLmV4ZQpzd3BjVjcxT0lsekxwcTVub01uRmxNdEJSZkxOcnFmU3A1bDlrWnRhRkp0ZUFtOUI0UVIya1RaQUhOL0RLblNLeVQrWTdXYzNYV0ZvL0locmxSRDBDZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.22/Benchmark.TCG_0.2.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEdaZGFUUEJObE9LYk9Zb3NMalVhOGFOMHFJRHhDRVVOSkRubVgyNTNZaXBEK2p6NkFiRE03eGFINkdvSExudVJMc1Vlay80M2tOKzUycWphdzZjTFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA4ODE5CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjNfeDY0LXNldHVwLmV4ZQpvOWJpVElmZTZjR0xRS0tYWlBzdVpoUnRjODZoRFlndUdmODFjQmNYbUxsVll3S0RZRHYrc1FzVTZhR1AyVHFHMVVsbXhEUlM2SGgrc2hldERUTjVBUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.23/Benchmark.TCG_0.2.23_x64-setup.exe"
     }
   }
 }
