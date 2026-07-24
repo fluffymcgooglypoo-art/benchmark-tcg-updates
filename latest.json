@@ -1,11 +1,11 @@
 {
-  "version": "0.2.23",
-  "notes": "Smart eBay gating (TCG-first for modern English raw) + eBay request efficiency and backoff",
-  "pub_date": "2026-07-24T16:00:22.900Z",
+  "version": "0.2.24",
+  "notes": "Fix Niimbot BT print hang and continuous multi-label printing",
+  "pub_date": "2026-07-24T18:11:14.800Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEdaZGFUUEJObE9LYk9Zb3NMalVhOGFOMHFJRHhDRVVOSkRubVgyNTNZaXBEK2p6NkFiRE03eGFINkdvSExudVJMc1Vlay80M2tOKzUycWphdzZjTFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTA4ODE5CWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjNfeDY0LXNldHVwLmV4ZQpvOWJpVElmZTZjR0xRS0tYWlBzdVpoUnRjODZoRFlndUdmODFjQmNYbUxsVll3S0RZRHYrc1FzVTZhR1AyVHFHMVVsbXhEUlM2SGgrc2hldERUTjVBUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.23/Benchmark.TCG_0.2.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEwvQTFDMzRtVVYxR3VuSFhMaWJpSmNoUnhFWHNXNjdPSlUyalM1SWovcEwzYyt3Rmxyck9DSGcvOEFrRk5UdmNiMXVEM0EyOGNuT0VhRXpKNTkyU2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE2NjcxCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjRfeDY0LXNldHVwLmV4ZQo1b2tsTmlKeGwwREUzYkMvdFpnajhxN2QzcGlPeEF0QTB6NGJ4VDBtc2ZRNE1ick5laUhPN2R1MExTaGtxODJYTU1tY1pIc1lwQnlKWHdXWjZ1WEJDUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.24/Benchmark.TCG_0.2.24_x64-setup.exe"
     }
   }
 }
