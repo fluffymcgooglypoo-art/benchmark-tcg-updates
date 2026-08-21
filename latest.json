@@ -1,11 +1,11 @@
 {
-  "version": "0.2.24",
-  "notes": "Fix Niimbot BT print hang and continuous multi-label printing",
-  "pub_date": "2026-07-24T18:11:14.800Z",
+  "version": "0.2.24.2",
+  "notes": "0.2.24.2: Printing options limited to the printings that exist for the selected card, no more blank labels when adding cards, sidecar no longer crashes on a broken log pipe.",
+  "pub_date": "2026-08-21T01:56:52.977Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEwvQTFDMzRtVVYxR3VuSFhMaWJpSmNoUnhFWHNXNjdPSlUyalM1SWovcEwzYyt3Rmxyck9DSGcvOEFrRk5UdmNiMXVEM0EyOGNuT0VhRXpKNTkyU2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTE2NjcxCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjRfeDY0LXNldHVwLmV4ZQo1b2tsTmlKeGwwREUzYkMvdFpnajhxN2QzcGlPeEF0QTB6NGJ4VDBtc2ZRNE1ick5laUhPN2R1MExTaGtxODJYTU1tY1pIc1lwQnlKWHdXWjZ1WEJDUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.24/Benchmark.TCG_0.2.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERIMXhxNzZLOGVqUEk3QkxTcTdnWXAyWklPKzI4aVBiSXgxT1l4R2E5UGZLeUF3Y0hpNTV6YnYyc3hDQVp4ZXdzN01QeDJaaDRsTVZtMUgzMzAxN2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mjc3NDEyCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjRfeDY0LXNldHVwLmV4ZQplbFpIbzJlK1hHWUJxdHpiL1QvbmtMcS9JYjdOaDljcnNaOUgwRkNsMHRzeEJCSUVPR09jT1V5bG9JenRQVnV4T1pjS2o2OFlKTVhqeFZpYXVuTE1DUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.24.2/Benchmark.TCG_0.2.24_x64-setup.exe"
     }
   }
 }
