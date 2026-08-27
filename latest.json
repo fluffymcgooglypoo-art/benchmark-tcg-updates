@@ -1,11 +1,11 @@
 {
-  "version": "0.2.24.2",
-  "notes": "0.2.24.2: Printing options limited to the printings that exist for the selected card, no more blank labels when adding cards, sidecar no longer crashes on a broken log pipe.",
-  "pub_date": "2026-08-21T01:56:52.977Z",
+  "version": "0.3.0",
+  "notes": "0.3.0: cloud-first desktop. Sign in with your Benchmark account and your inventory, orders, trades, bags, lots, customers, and expenses load from the cloud on any PC. Faster inventory, twenty bug fixes, and two personal tools (Deal Scanner, Daily News) off by default under Settings.",
+  "pub_date": "2026-08-27T03:00:14.303Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERIMXhxNzZLOGVqUEk3QkxTcTdnWXAyWklPKzI4aVBiSXgxT1l4R2E5UGZLeUF3Y0hpNTV6YnYyc3hDQVp4ZXdzN01QeDJaaDRsTVZtMUgzMzAxN2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Mjc3NDEyCWZpbGU6QmVuY2htYXJrIFRDR18wLjIuMjRfeDY0LXNldHVwLmV4ZQplbFpIbzJlK1hHWUJxdHpiL1QvbmtMcS9JYjdOaDljcnNaOUgwRkNsMHRzeEJCSUVPR09jT1V5bG9JenRQVnV4T1pjS2o2OFlKTVhqeFZpYXVuTE1DUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.2.24.2/Benchmark.TCG_0.2.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERVcDlUckFabi9Qd0p0WXRYZ3JvTmNnV2JFS3JLZjhGUzlFVCtaQTl4T1hXU3lYQWlLZlE2cnNmODRjTGJ0TDJVQzhmdVdUK2ZNazU3dnZBM3ZNS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Nzk5NjEzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMF94NjQtc2V0dXAuZXhlCnYyQ01NMHZvS1pRZ2hDQ2VvUG1jTWh6UVpjVG9xMC9CVGpiMFlQVDRqVzYraE92V09uSFIweUNBdFFYbzNzOGFSUzV3MldoVHRpUDJObXVaeUpBRUN3PT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.0/Benchmark.TCG_0.3.0_x64-setup.exe"
     }
   }
 }
