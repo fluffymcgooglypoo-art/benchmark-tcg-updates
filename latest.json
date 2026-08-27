@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
-  "notes": "0.3.1: NFC tag links now live in the cloud. Every machine signed into the account resolves the same tags; the PC's existing links are pushed up automatically on first sync.",
-  "pub_date": "2026-08-27T07:42:44.205Z",
+  "version": "0.3.2",
+  "notes": "0.3.2: updates now stop the cloud service before installing (fixes the aborted update) and install quietly from the next update on.",
+  "pub_date": "2026-08-27T08:15:57.730Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWFBoeVd5U21qd09CRWlTRWZ3cXJJYTRTTFpxZ0pVV0FCaGhOUWRNZlF2T0dLWGFOQ2tQYTRJbDFaZFRpUWlsV0JPTzhGL1F5WlhTN1BBTVdKdWRFY3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODE2NTYzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMV94NjQtc2V0dXAuZXhlCk5HdXJhQW1pNzNjUDFzSHozcndMZC8zR09tZzE5b0w0MVMrczI3ME9mazVQTlNGRjBaTUdXbUFDQWVyN0kvRVVhVnNJWEh0OWx3UTcxNElxZitsWUNBPT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.1/Benchmark.TCG_0.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExQbWhwU00vdGZSbndiUThLRTNiYk1WVUtsUG15dVA5ZVlhSXNMUDhwWGRIbWRZVVo1VHh2MEFTaEprSmgzZmV6L3FqR2NWQzdoTXpZYnoweWxyT1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODE4NTU3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMl94NjQtc2V0dXAuZXhlClpXbEwvK29nWVc4bXhXUWo1aDdrV1M2WXRMcG1EaDQ3cFdzQVZWZjhpY01vN0R6enhXa1FYQUtYbGgrZVY3UzJrQStjL1N6dEFFVDA2SGplbFNoUUN3PT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.2/Benchmark.TCG_0.3.2_x64-setup.exe"
     }
   }
 }
