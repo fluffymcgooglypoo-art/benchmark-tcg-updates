@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "0.3.0: cloud-first desktop. Sign in with your Benchmark account and your inventory, orders, trades, bags, lots, customers, and expenses load from the cloud on any PC. Faster inventory, twenty bug fixes, and two personal tools (Deal Scanner, Daily News) off by default under Settings.",
-  "pub_date": "2026-08-27T03:00:14.303Z",
+  "version": "0.3.1",
+  "notes": "0.3.1: NFC tag links now live in the cloud. Every machine signed into the account resolves the same tags; the PC's existing links are pushed up automatically on first sync.",
+  "pub_date": "2026-08-27T07:42:44.205Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERVcDlUckFabi9Qd0p0WXRYZ3JvTmNnV2JFS3JLZjhGUzlFVCtaQTl4T1hXU3lYQWlLZlE2cnNmODRjTGJ0TDJVQzhmdVdUK2ZNazU3dnZBM3ZNS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Nzk5NjEzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMF94NjQtc2V0dXAuZXhlCnYyQ01NMHZvS1pRZ2hDQ2VvUG1jTWh6UVpjVG9xMC9CVGpiMFlQVDRqVzYraE92V09uSFIweUNBdFFYbzNzOGFSUzV3MldoVHRpUDJObXVaeUpBRUN3PT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.0/Benchmark.TCG_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWFBoeVd5U21qd09CRWlTRWZ3cXJJYTRTTFpxZ0pVV0FCaGhOUWRNZlF2T0dLWGFOQ2tQYTRJbDFaZFRpUWlsV0JPTzhGL1F5WlhTN1BBTVdKdWRFY3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODE2NTYzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMV94NjQtc2V0dXAuZXhlCk5HdXJhQW1pNzNjUDFzSHozcndMZC8zR09tZzE5b0w0MVMrczI3ME9mazVQTlNGRjBaTUdXbUFDQWVyN0kvRVVhVnNJWEh0OWx3UTcxNElxZitsWUNBPT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.1/Benchmark.TCG_0.3.1_x64-setup.exe"
     }
   }
 }
