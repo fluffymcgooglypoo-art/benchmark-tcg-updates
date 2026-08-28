@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "0.3.2: updates now stop the cloud service before installing (fixes the aborted update) and install quietly from the next update on.",
-  "pub_date": "2026-08-27T08:15:57.730Z",
+  "version": "0.3.3",
+  "notes": "Cache mirror self-heals after updates (fixes missing pictures on updated devices); NFC link-batch body-limit fix; payment method and shipment carrier/tracking recorded in cloud mode; expense editing in cloud mode; Live Desk finalize no longer shows $0; claim sessions can be completed/cancelled; cards-sold ledger and shared portfolio history follow the account (activate after the hosted migrations are applied).",
+  "pub_date": "2026-08-28T20:38:38.827Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExQbWhwU00vdGZSbndiUThLRTNiYk1WVUtsUG15dVA5ZVlhSXNMUDhwWGRIbWRZVVo1VHh2MEFTaEprSmgzZmV6L3FqR2NWQzdoTXpZYnoweWxyT1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODE4NTU3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMl94NjQtc2V0dXAuZXhlClpXbEwvK29nWVc4bXhXUWo1aDdrV1M2WXRMcG1EaDQ3cFdzQVZWZjhpY01vN0R6enhXa1FYQUtYbGgrZVY3UzJrQStjL1N6dEFFVDA2SGplbFNoUUN3PT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.2/Benchmark.TCG_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEdtY0J1VDc4dVZWTTM0akRnQWFTdm1WeWpTbU5peFBPMjZPM2ptUVdncklCeHFGNzNmakZNUkVaM0swUkt1TUVEY3BpZmg3YzRLUXAwOExINVR5amdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTQ5NTE4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuM194NjQtc2V0dXAuZXhlCnU5MDM2dldPME1ocUNtbzdTTFRyWkluMXpMSWZWUEVqNXd1aFppQWpjcGZqTnJhcDdVRHd2bWRGUm9HOStzeVlEZjFUTmxtUmpqRVNxYkJjWGc4UUNBPT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.3/Benchmark.TCG_0.3.3_x64-setup.exe"
     }
   }
 }
