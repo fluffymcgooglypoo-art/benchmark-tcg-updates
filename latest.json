@@ -1,11 +1,11 @@
 {
-  "version": "0.3.6",
-  "notes": "Slab cert lookups now run through your Benchmark account's shared cloud cache: any machine you sign into loads a known cert instantly, with photos, and new certs are collected once by the bridge machine. Deal Scanner identifies far more Japanese promo and vintage cards. Grades show as plain numbers.",
-  "pub_date": "2026-08-29T19:53:59.168Z",
+  "version": "0.3.7",
+  "notes": "Settings gains Your Devices: see every machine signed into your account and revoke one instantly. Slab certs now resolve from ANY machine: a laptop or second PC files a cloud request and the bridge machine collects it within seconds when online. Deal Scanner prices tournament-stamped and 1st edition listings against the right comps.",
+  "pub_date": "2026-08-29T22:38:54.523Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENudlg2eE9XQzduNnJIRGl4bHBSUUlPVUdtbC9KRmxQWGxXakZJSm0wcWcyZVE2S2l1b3VqZEVCR3k2TVkwR1g4aTZCeWlRMW12UmRuVW4raHZKVXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDMzMjM4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNl94NjQtc2V0dXAuZXhlClk5SFRwNDZTZUdzV3Q5NUY5STFRZnNBanNqbGRPZy9BR29nUVZwTjZobHRhZm5uendrRFJYaEYxRVdkaW81VkRqRENYY3pNbUthamkydWJFMGphVEF3PT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.6/Benchmark.TCG_0.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEJpemdZZzFkNVJ0ZU8zbGFGcWdLNDh0YjJrZStpNE92RGdCVEpTc09CVDFYSEppSzNBalFvUy9seUhDdGJIQmFNaVk3OGc2K0o1ZUYrMkd0UFZMZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDQzMTM0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuN194NjQtc2V0dXAuZXhlCm9RTURrNFZKbWJ0TVZhR1l4cmR1SXU2ckF2SXFJbmtvMERDN3ZDT2NMTFlDOFVYZ0UycXdOak9lT2NabjRMKzJPR0NpVkdKSzkzWXZ2c3h5anUwbUR3PT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.7/Benchmark.TCG_0.3.7_x64-setup.exe"
     }
   }
 }
