@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "Your PSA token now lives in your Benchmark account: in Settings, click 'Move local token to my account' once and every machine you sign into can look up PSA slabs, no pasting. This is also the first signed build: Windows shows the publisher instead of the SmartScreen warning.",
-  "pub_date": "2026-08-29T05:33:13.275Z",
+  "version": "0.3.6",
+  "notes": "Slab cert lookups now run through your Benchmark account's shared cloud cache: any machine you sign into loads a known cert instantly, with photos, and new certs are collected once by the bridge machine. Deal Scanner identifies far more Japanese promo and vintage cards. Grades show as plain numbers.",
+  "pub_date": "2026-08-29T19:53:59.168Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEczZlpwUUYveFBBUzRkWi9sN3ZGajRSbDhiL3pxVTFwanFNcnZBSTlXRXkySHhyRERuZSttclVXd3FKUHpTVk5Ld1J4dG5BblRXQUxDN1U4QlQ2SGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTgxNTkyCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNV94NjQtc2V0dXAuZXhlCmo3bmUyU0xGQy9GZ2FROFA0cDFkaDBPNi9EclEraGtwZUVFc2psblRKZUNPRVA2MkRuUUkxanIvdnFpTEN5NTJCQ3lnand4eC9vT3o4VXcxZGR6aURBPT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.5/Benchmark.TCG_0.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENudlg2eE9XQzduNnJIRGl4bHBSUUlPVUdtbC9KRmxQWGxXakZJSm0wcWcyZVE2S2l1b3VqZEVCR3k2TVkwR1g4aTZCeWlRMW12UmRuVW4raHZKVXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDMzMjM4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNl94NjQtc2V0dXAuZXhlClk5SFRwNDZTZUdzV3Q5NUY5STFRZnNBanNqbGRPZy9BR29nUVZwTjZobHRhZm5uendrRFJYaEYxRVdkaW81VkRqRENYY3pNbUthamkydWJFMGphVEF3PT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.6/Benchmark.TCG_0.3.6_x64-setup.exe"
     }
   }
 }
