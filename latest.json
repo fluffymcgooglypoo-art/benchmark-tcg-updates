@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "Fixes 0.3.3's backend failing to start after update. Skip 0.3.3 entirely: update from 0.3.2 or 0.3.3 straight to this. Also: sold-history ledger backfill now covers shipped orders, and payment/portfolio sync functions unblocked.",
-  "pub_date": "2026-08-28T21:49:41.673Z",
+  "version": "0.3.5",
+  "notes": "Your PSA token now lives in your Benchmark account: in Settings, click 'Move local token to my account' once and every machine you sign into can look up PSA slabs, no pasting. This is also the first signed build: Windows shows the publisher instead of the SmartScreen warning.",
+  "pub_date": "2026-08-29T05:33:13.275Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEdveU1CazR1YktTV1NKakJpSS9BWmtZcVBoTEUya29hZzhwZnFibUpFWWtIcUlVSVBJWGZLeitmbExLcVI3UE5UYUF6NXZTc0xFMzlWRzBrNWY4U2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTUzNzgxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNF94NjQtc2V0dXAuZXhlCmdOSFBJYVRNMXoyZGFOVWJLbm9ySnRaaGJYcHpkdTl1bFNKT1VjdFhndGRzcjlyblVkcWI4YVEyUWpYZ1d4ek9QMmdxODNBZjVTOFFRTG1rNGhFYkRBPT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.4/Benchmark.TCG_0.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEczZlpwUUYveFBBUzRkWi9sN3ZGajRSbDhiL3pxVTFwanFNcnZBSTlXRXkySHhyRERuZSttclVXd3FKUHpTVk5Ld1J4dG5BblRXQUxDN1U4QlQ2SGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTgxNTkyCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNV94NjQtc2V0dXAuZXhlCmo3bmUyU0xGQy9GZ2FROFA0cDFkaDBPNi9EclEraGtwZUVFc2psblRKZUNPRVA2MkRuUUkxanIvdnFpTEN5NTJCQ3lnand4eC9vT3o4VXcxZGR6aURBPT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.5/Benchmark.TCG_0.3.5_x64-setup.exe"
     }
   }
 }
