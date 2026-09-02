@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7",
-  "notes": "Settings gains Your Devices: see every machine signed into your account and revoke one instantly. Slab certs now resolve from ANY machine: a laptop or second PC files a cloud request and the bridge machine collects it within seconds when online. Deal Scanner prices tournament-stamped and 1st edition listings against the right comps.",
-  "pub_date": "2026-08-29T22:38:54.523Z",
+  "version": "0.3.8",
+  "notes": "Full makeover on every screen, new pricing formula live with legacy fallback, Sold page, tray, in-app browser, 2FA, devices, shipping test mode, Deal Scanner comps, BGS lookup",
+  "pub_date": "2026-09-02T06:39:33.955Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEJpemdZZzFkNVJ0ZU8zbGFGcWdLNDh0YjJrZStpNE92RGdCVEpTc09CVDFYSEppSzNBalFvUy9seUhDdGJIQmFNaVk3OGc2K0o1ZUYrMkd0UFZMZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDQzMTM0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuN194NjQtc2V0dXAuZXhlCm9RTURrNFZKbWJ0TVZhR1l4cmR1SXU2ckF2SXFJbmtvMERDN3ZDT2NMTFlDOFVYZ0UycXdOak9lT2NabjRMKzJPR0NpVkdKSzkzWXZ2c3h5anUwbUR3PT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.7/Benchmark.TCG_0.3.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENqaGNVUzZzQ0JNVm1HS0tHUjhJMjVHSVVwdFMwL05Mc0hLT3daMXh0M2NzZUh4cUNDc3lDbFRucHk1Y0UyOEQwdStwYmxwZnk4cmJGNnh1a1YrdkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzI5NTA5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuOF94NjQtc2V0dXAuZXhlCmZMSlBuOWU3eTdodENVbjVONnZpNlRwOXNZd05TQlczUDh6eVAvSktlQld6WTVxQ3dlN096OGxORHJic2JtWEZpQ0FDTUhKUFRIQ01HUVRlNStrT0RnPT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.8/Benchmark.TCG_0.3.8_x64-setup.exe"
     }
   }
 }
