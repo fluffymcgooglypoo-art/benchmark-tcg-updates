@@ -1,11 +1,11 @@
 {
-  "version": "0.3.8",
-  "notes": "Full makeover on every screen, new pricing formula live with legacy fallback, Sold page, tray, in-app browser, 2FA, devices, shipping test mode, Deal Scanner comps, BGS lookup",
-  "pub_date": "2026-09-02T06:39:33.955Z",
+  "version": "0.3.9",
+  "notes": "Fourteen bug fixes, six pages restored, pricing language and formula guardrails, My Tax Form, in-app browser fixed",
+  "pub_date": "2026-09-02T21:18:20.668Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENqaGNVUzZzQ0JNVm1HS0tHUjhJMjVHSVVwdFMwL05Mc0hLT3daMXh0M2NzZUh4cUNDc3lDbFRucHk1Y0UyOEQwdStwYmxwZnk4cmJGNnh1a1YrdkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzI5NTA5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuOF94NjQtc2V0dXAuZXhlCmZMSlBuOWU3eTdodENVbjVONnZpNlRwOXNZd05TQlczUDh6eVAvSktlQld6WTVxQ3dlN096OGxORHJic2JtWEZpQ0FDTUhKUFRIQ01HUVRlNStrT0RnPT0K",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.8/Benchmark.TCG_0.3.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExDSlZzL01rSCt1YVo0ZDYrYTlPdnlGclgreXpJK2VSMWhKT05oMUI4Z3hPMStkdFZHYldkT3FrRnA0OUJhY0w5aURhcEdSVUQrUVRaa056L1NZdnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzgzMzc1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuOV94NjQtc2V0dXAuZXhlClhlWXRBOXBXTmdlUTgxTWYxeGhxVDFBelhNNmRlMXV0U0xpQ3hrUzhPNjE1NXE4c09LeFVRdW43ZUFOOG13eXdKcGpjWDg2WldxWnc4dzZ1czYyS0NnPT0K",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.9/Benchmark.TCG_0.3.9_x64-setup.exe"
     }
   }
 }
