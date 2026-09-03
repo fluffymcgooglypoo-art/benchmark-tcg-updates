@@ -1,11 +1,11 @@
 {
-  "version": "0.3.14",
-  "notes": "0.3.14: Every card opens a full working side panel now, including cards added through a lot that have never been scanned. Fixes sealed and graded lot cards showing no condition, no printing, and no catalog picker. Also fixes lot cards being silently excluded from pricing while stuck pending.",
-  "pub_date": "2026-09-03T16:29:19.127Z",
+  "version": "0.3.15",
+  "notes": "0.3.15: Click the card picture in the buyout panel to search the catalog and swap in the right card, its image and identity update on the spot and the eBay sold search rebuilds for the new card. Your own pasted eBay link is never overwritten.",
+  "pub_date": "2026-09-03T17:48:48.041Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEZnVnZ1dXRhNlJEYldCVG0zODR4Y1M4b296ZnR2RUFXdHVxaWNpZDNyQ3JValI1NmlLTW1wMGpPQjFiQU9ZQTV0Sk5GWXJUQzVOWGcxci9sV1FpM2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDUxNzM1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTRfeDY0LXNldHVwLmV4ZQo5UHRwRWFYZ3dQQ1FRazVnM1hUd2pSVTB0WEp5T1YwcDFYLzA1dDRDTnRBeVVzQmZLWTRIZ1F3WGo3Q2RQYUZ2cFRBU1I4allORnIwc2djVjNObk1DUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.14/Benchmark.TCG_0.3.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEw3cndtQnpRUjl0YXJJdGM0S01MNzlnUmNIZGlJeUFYc1dReUdpTlpSWGhKUUM1MG9EYUczdTF4VHJkaS80ekUwSDhUcUYrODFpaWhTdU5ldkQ2VncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDU2MTY3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTVfeDY0LXNldHVwLmV4ZQozR1c0YnNEcjFTM2N3K1ZaSSs3a2V3Z282aVUwUGNQYkRmL0lmTGRvbjhYb3pNUS9hd2d0MWNQYXpDM0VNeWJjbldJaUtxa2dGZzVYQ0R1VzZIZkpCQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.15/Benchmark.TCG_0.3.15_x64-setup.exe"
     }
   }
 }
