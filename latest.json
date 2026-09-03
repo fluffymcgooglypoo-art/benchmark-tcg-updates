@@ -1,11 +1,11 @@
 {
-  "version": "0.3.13",
-  "notes": "0.3.13: Sealed cards and sealed products are now different things: a sealed card with a collector number gets live condition and printing dropdowns, eBay-only links with the sold search pre-filled, and a working click-the-picture catalog search, while boxes keep their product page. Japanese toggle on the buyout search. In lots, the Benchmark number shows the scan circle while it computes and the label just says Benchmark, with the Japanese toggle back beside the lot search.",
-  "pub_date": "2026-09-03T15:01:26.095Z",
+  "version": "0.3.14",
+  "notes": "0.3.14: Every card opens a full working side panel now, including cards added through a lot that have never been scanned. Fixes sealed and graded lot cards showing no condition, no printing, and no catalog picker. Also fixes lot cards being silently excluded from pricing while stuck pending.",
+  "pub_date": "2026-09-03T16:29:19.127Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEw0d3lDcUFyc1pUZ3NwTHB4K0d1dmlscEtZRm1IMkFtcTNrMnBUc0dwNVp4TkNZWko2dlNEazFtd20ybDdOc0o2Zmk5UTFjM0RidjJHWWhTUjBVS0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE5NzgxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTNfeDY0LXNldHVwLmV4ZQp5VUVWL2xpWnVRUkxDZ0F0T01BVkFsbHFMSk4yQTBUbmtvQVZLWU9iQ2tXTHZ2eG5uRXk2TFF2QUMwN3pxWkRmVzg0UjJPK2hzbm1GVkV5QVlLc3ZCdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.13/Benchmark.TCG_0.3.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEZnVnZ1dXRhNlJEYldCVG0zODR4Y1M4b296ZnR2RUFXdHVxaWNpZDNyQ3JValI1NmlLTW1wMGpPQjFiQU9ZQTV0Sk5GWXJUQzVOWGcxci9sV1FpM2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDUxNzM1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTRfeDY0LXNldHVwLmV4ZQo5UHRwRWFYZ3dQQ1FRazVnM1hUd2pSVTB0WEp5T1YwcDFYLzA1dDRDTnRBeVVzQmZLWTRIZ1F3WGo3Q2RQYUZ2cFRBU1I4allORnIwc2djVjNObk1DUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.14/Benchmark.TCG_0.3.14_x64-setup.exe"
     }
   }
 }
