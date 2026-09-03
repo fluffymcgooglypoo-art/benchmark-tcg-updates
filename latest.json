@@ -1,11 +1,11 @@
 {
-  "version": "0.3.10",
-  "notes": "0.3.10: The Buyout tab. Build a cash offer on a whole collection: add their cards, see market total, slide your percent, Accept turns it into a lot with the cost spread across the cards. Also in this build: the card panel edits everything (condition, printing, cost, language) on both Inventory and Pricing, slabs price and present as slabs, sealed products price off their real TCGplayer pages, Chinese and Korean cards price from eBay in their language, drop a URL on any card to point its pricing at the right place, the pricing page shows your entire inventory, sell from the main Inventory page, faster scans plus a daily auto-reprice of everything, live dashboard drag, the new Add Card search grid, delete unwanted claim sessions and unused trades, pages load faster, and the real TCGplayer and eBay logos.",
-  "pub_date": "2026-09-03T04:16:17.879Z",
+  "version": "0.3.11",
+  "notes": "0.3.11: Fixes the Buyout tab showing 'not available in cloud mode'. Buyout now runs on your machine like Live Desk does. Everything else from 0.3.10 unchanged.",
+  "pub_date": "2026-09-03T04:44:26.146Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEZnaklFZ0tsb0hjOTVDd0NvMXYzNEU5dFMrNFZ6Y2ppMkJZQUlDRVZ3cXh5dXE3VEVpMFJiV2t5RGs3dFYyOExzQk1zb3FZMUJtWldycFNweHlXL2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDA4NjMzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTBfeDY0LXNldHVwLmV4ZQpIODVtYXMzemFSa3FVbVpDamlEblJ2OGtSS25kb2VxcmZGVnBCZVFIaGhWSkhUSzk0VnhDaEI1Umx3WURyeFk3RTArZktkTWhXTEs0WGhSbFhPUFBDZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.10/Benchmark.TCG_0.3.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEl1cHQyNTU0SFFuU2R2YUhyTEtiVHhuNFZlQmMzZThicC81STZaTlBuZlM4K0RkQ2FlUkVwbFFVckdPb2I4RnBLcHhQSmNTbkU3bjVlTHBkSFJrZmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDEwNDk3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTFfeDY0LXNldHVwLmV4ZQp4Rkc1UmgwU3E0NHc5azRVcElNVkRwUERZUjBURCtvLzU2VDNpN0tjS3hIYmIvdkJvblB5UkZtMHJHaDdPaVBGdC9WNHRuZzU2TlFUcFgxOTN0UERCUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.11/Benchmark.TCG_0.3.11_x64-setup.exe"
     }
   }
 }
