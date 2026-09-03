@@ -1,11 +1,11 @@
 {
-  "version": "0.3.11",
-  "notes": "0.3.11: Fixes the Buyout tab showing 'not available in cloud mode'. Buyout now runs on your machine like Live Desk does. Everything else from 0.3.10 unchanged.",
-  "pub_date": "2026-09-03T04:44:26.146Z",
+  "version": "0.3.12",
+  "notes": "0.3.12: Table fix everywhere: columns line up with their headers, the header runs the full width, and the scrollbar starts below it, on every table page. Buyout and card editing: Sealed and Graded are now conditions, the eBay sold-search link builds itself from the card (your own link always wins), graded cards take company, grade and cert, pictures carry through from the catalog, click any card picture to search the catalog for the right identity, and already-entered sealed cards can be converted in the panel.",
+  "pub_date": "2026-09-03T06:09:30.983Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEl1cHQyNTU0SFFuU2R2YUhyTEtiVHhuNFZlQmMzZThicC81STZaTlBuZlM4K0RkQ2FlUkVwbFFVckdPb2I4RnBLcHhQSmNTbkU3bjVlTHBkSFJrZmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDEwNDk3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTFfeDY0LXNldHVwLmV4ZQp4Rkc1UmgwU3E0NHc5azRVcElNVkRwUERZUjBURCtvLzU2VDNpN0tjS3hIYmIvdkJvblB5UkZtMHJHaDdPaVBGdC9WNHRuZzU2TlFUcFgxOTN0UERCUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.11/Benchmark.TCG_0.3.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEJ5ZWlJS0RLTXV2WHVnZEhYdFVmV21XZ21DL21XMkdyS0ZXN25zWm1WQUlaSjFqaE1vaCtOWDJlTlRTVXhwSUpVd2RlZndWMzdXaW5heTR0TFVGRVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE1Njk5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTJfeDY0LXNldHVwLmV4ZQoyZk5JbVNvdHk1TDBPMDJwNnNnMEZ4WElSS0FlZkNHdFZLR25Sd0FEak5IbTlyazhWTmZsYzdodWFoa1NkTDhTb1FFNDF5QVJkR3hFb0llY3NmZWlDQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.12/Benchmark.TCG_0.3.12_x64-setup.exe"
     }
   }
 }
