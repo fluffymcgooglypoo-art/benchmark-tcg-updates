@@ -1,11 +1,11 @@
 {
-  "version": "0.3.16",
-  "notes": "0.3.16: Sealed and graded cards entered before the catalog picker existed can now be fixed: the blank picture is always clickable, the catalog search opens, and picking the right card fills in its identity and image while keeping your condition and your eBay link exactly as you set them. If no link exists, the eBay sold search builds itself.",
-  "pub_date": "2026-09-03T18:40:19.779Z",
+  "version": "0.3.17",
+  "notes": "0.3.17: Pick the sales that count. When pricing from eBay, open the sales list and tap the listings that are really your card, each with its photo. Benchmark prices from only what you kept, remembers your choices per card, and marks the price hand-verified. Repeat cards priced within six hours answer instantly. Search any catalog box with name plus number, like gengar 85. The buyout price square shows the scan wheel while it reads, with the Benchmark price big and gold. Card panels glow with the card energy color. Catalog fix: cards with Tin in the name were being wrongly skipped, 22 recovered including Meowth 013.",
+  "pub_date": "2026-09-05T05:11:27.865Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEplRmZTMUh0NFdYSUs3dlFGaUhjNGZjelFvdVFZcm5nbytENHFjZXdMV3pDeWM4TDlVQ1ZaRitwSTFtVEsvQWhmVU1ER1l3MmJBSE15cVJIWnh1YlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDYwNjI2CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTZfeDY0LXNldHVwLmV4ZQp2ZGtIMldMaDhKb1BCSlArU3ByeHZwTVhxU0I2SUpVclVmY3l2Vzd1a29KeDRZNEgrYzhaa0pCM01sVXBEaUF0WUVOcU5kSDd4M0c2TVhiTTRaS1NBQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.16/Benchmark.TCG_0.3.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEV2Zm85WWFvUmlyV094aytMVkNmbDV2dTVPNWhXWDFQaDYvYUxvRHBVVll5c3d4RWFsakkydE1lTU56bW1ENHJKQzRaczlrTjdkdW5BVUdTZW00YndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTA1NDc0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTdfeDY0LXNldHVwLmV4ZQo4S3lSbERqMmljU09FUjZZNGFuNXAyRGV3aHRDclZqMGhXeTVTSEZQQ2lLTXE2YjlqWFNJZnRyMzMrcjArbSttRTdUbnpWM1lZZ2IzVnp4TXo3aUJEUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.17/Benchmark.TCG_0.3.17_x64-setup.exe"
     }
   }
 }
