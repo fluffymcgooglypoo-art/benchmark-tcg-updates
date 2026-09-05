@@ -1,11 +1,11 @@
 {
-  "version": "0.3.17",
-  "notes": "0.3.17: Pick the sales that count. When pricing from eBay, open the sales list and tap the listings that are really your card, each with its photo. Benchmark prices from only what you kept, remembers your choices per card, and marks the price hand-verified. Repeat cards priced within six hours answer instantly. Search any catalog box with name plus number, like gengar 85. The buyout price square shows the scan wheel while it reads, with the Benchmark price big and gold. Card panels glow with the card energy color. Catalog fix: cards with Tin in the name were being wrongly skipped, 22 recovered including Meowth 013.",
-  "pub_date": "2026-09-05T05:11:27.865Z",
+  "version": "0.3.18",
+  "notes": "0.3.18: The buyout workbench. Cards under a dollar split to their own bulk tab with their own percent, folding into the offer. Type the offer amount and the percent follows. Click the Benchmark header to sort, click the waiting count to see unpriced. Offer copy comes out clean in four styles for Discord or email, your pick remembered. The page stops scrolling into nothing and the card table gets the room. After Accept the buyout resets fresh and the lot splits its cost across every card automatically; older lots with empty costs heal on first run after the db push. Paste a picture straight onto any card, even mid-add. Condition and printing start blank so nothing sneaks in as NM. Lots columns line up. Repricing sweeps include lot cards again; 918 were being silently skipped. NFC gets a Settings toggle and a scanner panel that writes your choice of TCG or eBay link. And a Feedback button above Settings: circle whats wrong, type, send.",
+  "pub_date": "2026-09-05T16:55:08.480Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEV2Zm85WWFvUmlyV094aytMVkNmbDV2dTVPNWhXWDFQaDYvYUxvRHBVVll5c3d4RWFsakkydE1lTU56bW1ENHJKQzRaczlrTjdkdW5BVUdTZW00YndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTA1NDc0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMTdfeDY0LXNldHVwLmV4ZQo4S3lSbERqMmljU09FUjZZNGFuNXAyRGV3aHRDclZqMGhXeTVTSEZQQ2lLTXE2YjlqWFNJZnRyMzMrcjArbSttRTdUbnpWM1lZZ2IzVnp4TXo3aUJEUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.17/Benchmark.TCG_0.3.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEVWNUhrSmVMSkxEbThMWFZ1VHBTdFAxbC9BcTFIQ3R5U0d4ckFHSm1JUWcxbW14OXRZaTF0cDNTU1kwRGs2ckJGajJwMjdtc2NoeFVwZG1qRzZ0OVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTk4MTQ4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMThfeDY0LXNldHVwLmV4ZQoxUkJaVXpSYU15OHdNTWprV0ZOOVJSZ2Zpa1UvMTVQMjUrb0J2YWNFa2k1VnJBYzN2R2dFSytndlQ1ZmxERy9DS0k3cE9lKzFXaW1yRnR2eGRRQzdCQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.18/Benchmark.TCG_0.3.18_x64-setup.exe"
     }
   }
 }
