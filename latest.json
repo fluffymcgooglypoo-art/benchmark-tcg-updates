@@ -1,11 +1,11 @@
 {
-  "version": "0.3.20",
-  "notes": "0.3.20: Add a slab by cert and the screen shows its picture and a real Benchmark at that exact grade before you add it; the eBay sold search for graded cards is rewritten so their sales actually come back; slab photos are framed as slabs everywhere instead of squashed into a card-shaped box. The card panel has one Current price box with the Benchmark alone above it, a green check when they match and a yellow triangle when they don't, no engine warning list, a listings count that matches the Listings tab, and it re-reads the card the moment you Accept. The editable price is called Current price everywhere. In a lot, Benchmark is read-only beside a Current price you can type, the same cell every other table uses. Every Inventory and Lots row carries TCGplayer and eBay sold links. Inventory filters by who you bought from, people and lots alike. Sold is a tab inside Inventory now, and the old Sold link still lands there. Challenge Benchmark takes links and any length of reasoning.",
-  "pub_date": "2026-09-06T07:44:00.366Z",
+  "version": "0.3.21",
+  "notes": "0.3.21: The Add Card price screen now works like the card panel: TCGplayer and eBay logos as link-outs, Benchmark price above the number with a plain why line instead of engine codes, eBay sales in the receipts with each row opening its listing, Pick the sales so you can set aside the ones that are not your card, and a Current price beside the Benchmark so you can add a card at your own number. Benchmark no longer publishes a listing floor as a price: a card with no sales says so and shows what it is listed from. When a card has eBay sales but no TCGplayer sales, the price now comes from those sales instead of the ask book. A slab cert that does not resolve to a card says so in plain words. The release script no longer redeploys the catalog worker for nothing. Every Accept, typed price, Use Benchmark and lot price is now logged for the admin; nothing changes on your screens.",
+  "pub_date": "2026-09-06T22:41:45.962Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEpHVGlwZ3orUmljLzY0Q2k3RlpnNkMwNHRaeERwS1JNd1hPZFR6TjZPU1c3RWxYVG9zdG5NVFc2b05LeHBxbWZpaTBYUmxIdWZpVENLMy9EMkxOZlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Njc3MTg5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjBfeDY0LXNldHVwLmV4ZQp1VFNhYTZ1Rm1Rc3ZIWE1qamMwY2ltZ3hsTXprRkp1L1Z3akEzaVR0WnpZcjIzNFcvZDBJQjNRNWtaRTdKbjB3NHlPYnFRcUY3djdrQmJLdVF3NzFEdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.20/Benchmark.TCG_0.3.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEU1dTZ3OGVkL3FmSmtId1gxWEp5VWEzZEVwc3ZpN0hJMkZJN1RQV2FxbkYzM0ZSN05JZ1ZqcC8rcGF6OXh4aXpReU1KcVExZWNYdzJYK2tpZ1BnaXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzIyODQ5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjFfeDY0LXNldHVwLmV4ZQpQc1M2WUlneWppcGUzV1Zqa0xFNEdGZ09ZYlZSTXIzMFA3R3FhSHM1V0VqUjJrQTdNd1NKM2xSSFFMeXRYc3E1cG5NRFh5WEFFVXN2a055VVk0b25CUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.21/Benchmark.TCG_0.3.21_x64-setup.exe"
     }
   }
 }
