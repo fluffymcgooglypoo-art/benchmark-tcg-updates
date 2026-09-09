@@ -1,11 +1,11 @@
 {
-  "version": "0.3.25",
-  "notes": "Pricing runs in the cloud: refreshes ask the cloud directly, nothing prices on this PC, whole-dollar pricing with the new formula rules, the not-answering line fixed",
-  "pub_date": "2026-09-09T19:38:58.711Z",
+  "version": "0.3.26",
+  "notes": "Show display: a second app window for a customer screen at shows. Live Desk gets a Show display button; a chip tap puts the card's name, picture, condition and price on that window, and the customer's bag and total follow as you add cards. Never cost, never where the card came from.",
+  "pub_date": "2026-09-09T20:52:06.858Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEFQUlJsSmk1WGlvZTcxWkkxZ3M0cngvVStOeloxb21oRFYwS0NiaWJ5NmdUZi9JSU1QQXRXd3BXWjJxTXFIcjdKdmFSanBtN0c3Qk9zRWM0UHJmWEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTc1MjAwCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjVfeDY0LXNldHVwLmV4ZQpIeEFHNURiT3hKVjRoQkgydlpSZlhZQTE2YUtmYzZ4ZlExSUJwQWorK3BlNFAxVDlodmpXbkd5bERwWU5kUzEzb1dpdW56SUNRWDRUSEFoMW04bVBEZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.25/Benchmark.TCG_0.3.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEIrWkFYT2ZKMWlhUng0ckd3WUlkN29iRytjTEU3bFgrcEpPdCtmR0hIREhDL215Rm9jVE1lSEJsaGlLZXk5QU5XMG5nVHZzNjJ2K2REMjE0a0xoYUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg2NzE5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjZfeDY0LXNldHVwLmV4ZQpseXVaWS9mektQL25ZWEg1aHBpUUZRS2x0UFh0RTRZcm5OSEsxdlAvbzR2OU05MncwWVQ2RmNrSkN3TWNqQVdOV0RHSi9wZ0RQWGxzZ0ZkLzhIdkdCZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.26/Benchmark.TCG_0.3.26_x64-setup.exe"
     }
   }
 }
