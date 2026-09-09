@@ -1,11 +1,11 @@
 {
-  "version": "0.3.24",
-  "notes": "0.3.24: Pricing now runs on the Benchmark pricing box, not on your computer. Reprice inventory, Full market refresh, the panel refresh, Retry, the add-time scan and lot pricing all hand the read to the box and show you what it is doing: how many cards are waiting, picked up and done, and a warning if the box stops answering. A card you refresh jumps ahead of a running sweep. Stop cancels the cards the box has not picked up yet. The box reads TCGplayer at the pace TCGplayer publishes and pauses on its own when the sales table stops loading. Benchmark Pricing shows a Confidence percent for every Benchmark with the reason behind it, on the row and in the panel, and Accept everything above a confidence line you set. Known in this build: your price mode (your number versus tracking the Benchmark) still does not reach the cloud, the fix is a server update coming separately; deleting a card right after adding it to a lot can need a second press; the panel can say the box is not answering on the first refresh after a quiet spell. Not moved yet: the Add Card price step, a lot per-card preview, the buyout eBay lookup, the trade builder read and the panel TCGplayer tile still read on your computer.",
-  "pub_date": "2026-09-08T04:39:24.586Z",
+  "version": "0.3.25",
+  "notes": "Pricing runs in the cloud: refreshes ask the cloud directly, nothing prices on this PC, whole-dollar pricing with the new formula rules, the not-answering line fixed",
+  "pub_date": "2026-09-09T19:38:58.711Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExLSHRkUEdabmpaZ0ZjM3l4UzIvWDROSldUR0tuQVU3bjJEbmhXZ2QyT2hZVll0aE5aZnI0OHpvVFhEMzZlS3dJeHFJTTBLcys4aXFDYW52ck83VUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODM0OTA1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjRfeDY0LXNldHVwLmV4ZQo3WWZqcXZkSTcyWVY4b3VlTWs0ck9HcnFiUTNvMGJHUFdBd0pwNWQyOE9xZndtZVgzZS9BaW16VUNQMkxrTnJuR3Vzd0xVb0lNTWdpVmNpRDZaZlNEZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.24/Benchmark.TCG_0.3.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEFQUlJsSmk1WGlvZTcxWkkxZ3M0cngvVStOeloxb21oRFYwS0NiaWJ5NmdUZi9JSU1QQXRXd3BXWjJxTXFIcjdKdmFSanBtN0c3Qk9zRWM0UHJmWEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTc1MjAwCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjVfeDY0LXNldHVwLmV4ZQpIeEFHNURiT3hKVjRoQkgydlpSZlhZQTE2YUtmYzZ4ZlExSUJwQWorK3BlNFAxVDlodmpXbkd5bERwWU5kUzEzb1dpdW56SUNRWDRUSEFoMW04bVBEZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.25/Benchmark.TCG_0.3.25_x64-setup.exe"
     }
   }
 }
