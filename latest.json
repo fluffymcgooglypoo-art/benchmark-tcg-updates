@@ -1,11 +1,11 @@
 {
-  "version": "0.3.27",
-  "notes": "Card panel Refresh applies the cloud Benchmark and a stand-down keeps the price; a single high sale needs the market, the median or a real shelf at its level",
-  "pub_date": "2026-09-10T04:50:50.504Z",
+  "version": "0.3.28",
+  "notes": "Sealed cards take an NFC chip without a URL write; a cleared source URL saves empty and a pasted eBay link stays as typed",
+  "pub_date": "2026-09-10T05:27:24.967Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExWY21US0JKY0FvWUtWREJGT2UzRks0cE5ENmQrNzZYRllSSFZuOHNtTXUvMmF3ZjZkaDNIMS9SU1JUVUlkRk1VRzFHeTFZcVE5QWMydmlYZjI0YWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDE0NDQzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjdfeDY0LXNldHVwLmV4ZQpTWlArZlNuZVJWSVVRb2JSVFNIT283dFZYRTVyUVVlT3V5N2U5aXcyZnRZYlkwZk5XZkhIVnM4ZDhGeEZRd3VIejZuU2ZQaUJGc3c0cFhYNm9aV2lDdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.27/Benchmark.TCG_0.3.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERrTVBBRFJaMU1tN0V2ekwycG1kN3h5Q3I2dzFTK3hHYVBaRGg0ak5WencyYngreGg4SmpwZ1FoRXNxOGpzNkVyN201V2tKc3B6RXVIOUZNdkg0QWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDE3OTg3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjhfeDY0LXNldHVwLmV4ZQpYRHlHOUNyRWZOVzhKbmE2SEEyRGtIUVRWbGRjRTIzNXU0UjJSRU9SZk1zNlRzUjhON2c5b3BNWGcrQnorRk5iVHc0QkdTUktnM1UrUXdKaUwyekdCdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.28/Benchmark.TCG_0.3.28_x64-setup.exe"
     }
   }
 }
