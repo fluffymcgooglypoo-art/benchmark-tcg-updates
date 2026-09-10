@@ -1,11 +1,11 @@
 {
-  "version": "0.3.28",
-  "notes": "Sealed cards take an NFC chip without a URL write; a cleared source URL saves empty and a pasted eBay link stays as typed",
-  "pub_date": "2026-09-10T05:27:24.967Z",
+  "version": "0.3.29",
+  "notes": "Show display window opens and stays open; fixes the flash-and-vanish on Live Desk's Show display button and the window landing on the login page",
+  "pub_date": "2026-09-10T08:45:05.230Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERrTVBBRFJaMU1tN0V2ekwycG1kN3h5Q3I2dzFTK3hHYVBaRGg0ak5WencyYngreGg4SmpwZ1FoRXNxOGpzNkVyN201V2tKc3B6RXVIOUZNdkg0QWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDE3OTg3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjhfeDY0LXNldHVwLmV4ZQpYRHlHOUNyRWZOVzhKbmE2SEEyRGtIUVRWbGRjRTIzNXU0UjJSRU9SZk1zNlRzUjhON2c5b3BNWGcrQnorRk5iVHc0QkdTUktnM1UrUXdKaUwyekdCdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.28/Benchmark.TCG_0.3.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERvVWsxSEpTaE14V0gwUFAxTFlEY0NjbEFkNTZGd1psUkkzeDNmZENZd1lESjE0OWdWMlVCdGNqenY3OURxbHpyZFVucDhMTGNRdjcyak40V2tPZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDI5MTUzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjlfeDY0LXNldHVwLmV4ZQovOHJJSjNESWI0MEFLZVRFZGhTSCttZWM0T1ZyQUFGVnIzMW11NHoyenJhMitFRi9hTE9TU0hRUUxsOE54NUVjL1hlLzRFSGpuRWc3MkZlZWdPUVpEQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.29/Benchmark.TCG_0.3.29_x64-setup.exe"
     }
   }
 }
