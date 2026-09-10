@@ -1,11 +1,11 @@
 {
-  "version": "0.3.26",
-  "notes": "Show display: a second app window for a customer screen at shows. Live Desk gets a Show display button; a chip tap puts the card's name, picture, condition and price on that window, and the customer's bag and total follow as you add cards. Never cost, never where the card came from.",
-  "pub_date": "2026-09-09T20:52:06.858Z",
+  "version": "0.3.27",
+  "notes": "Card panel Refresh applies the cloud Benchmark and a stand-down keeps the price; a single high sale needs the market, the median or a real shelf at its level",
+  "pub_date": "2026-09-10T04:50:50.504Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEIrWkFYT2ZKMWlhUng0ckd3WUlkN29iRytjTEU3bFgrcEpPdCtmR0hIREhDL215Rm9jVE1lSEJsaGlLZXk5QU5XMG5nVHZzNjJ2K2REMjE0a0xoYUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg2NzE5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjZfeDY0LXNldHVwLmV4ZQpseXVaWS9mektQL25ZWEg1aHBpUUZRS2x0UFh0RTRZcm5OSEsxdlAvbzR2OU05MncwWVQ2RmNrSkN3TWNqQVdOV0RHSi9wZ0RQWGxzZ0ZkLzhIdkdCZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.26/Benchmark.TCG_0.3.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExWY21US0JKY0FvWUtWREJGT2UzRks0cE5ENmQrNzZYRllSSFZuOHNtTXUvMmF3ZjZkaDNIMS9SU1JUVUlkRk1VRzFHeTFZcVE5QWMydmlYZjI0YWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDE0NDQzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjdfeDY0LXNldHVwLmV4ZQpTWlArZlNuZVJWSVVRb2JSVFNIT283dFZYRTVyUVVlT3V5N2U5aXcyZnRZYlkwZk5XZkhIVnM4ZDhGeEZRd3VIejZuU2ZQaUJGc3c0cFhYNm9aV2lDdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.27/Benchmark.TCG_0.3.27_x64-setup.exe"
     }
   }
 }
