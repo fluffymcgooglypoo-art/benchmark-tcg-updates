@@ -1,11 +1,11 @@
 {
-  "version": "0.3.29",
-  "notes": "Show display window opens and stays open; fixes the flash-and-vanish on Live Desk's Show display button and the window landing on the login page",
-  "pub_date": "2026-09-10T08:45:05.230Z",
+  "version": "0.3.30",
+  "notes": "0.3.30: fixes inventory sync freezing on every device after a lot was deleted. Cards from a deleted lot no longer block the pull, and the three affected cards are repaired on the cloud.",
+  "pub_date": "2026-09-11T02:20:56.566Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERvVWsxSEpTaE14V0gwUFAxTFlEY0NjbEFkNTZGd1psUkkzeDNmZENZd1lESjE0OWdWMlVCdGNqenY3OURxbHpyZFVucDhMTGNRdjcyak40V2tPZXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDI5MTUzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMjlfeDY0LXNldHVwLmV4ZQovOHJJSjNESWI0MEFLZVRFZGhTSCttZWM0T1ZyQUFGVnIzMW11NHoyenJhMitFRi9hTE9TU0hRUUxsOE54NUVjL1hlLzRFSGpuRWc3MkZlZWdPUVpEQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.29/Benchmark.TCG_0.3.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE5HUVAwUjBEQWJpM3BMRm5qYmhLVzgyREg3akJNSjN3bDBVRndOdHc0dEhWMXpSdmErcmFzbXdFeEFqOEZFQ1FLU1p6R0UxNGllVEsxU215b1NPUXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDkyMzgwCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzBfeDY0LXNldHVwLmV4ZQplcTRNQzVmSjJneEhVcUFPOFU1MGNXcE81UUZJMHF6RmpWYmQybnlyaGxkU1pCd1plRFMrQjdSWFdDLzExTDc0Zm5sN0c5dEI0NVpXZXY2dFJzYjRCdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.30/Benchmark.TCG_0.3.30_x64-setup.exe"
     }
   }
 }
