@@ -1,11 +1,11 @@
 {
-  "version": "0.3.31",
-  "notes": "0.3.31: Live Desk bag control in cloud mode: edit a claim price, undo a checkout, delete a bag. Hold only on a paid bag. Desktop failure log. Faster price polling and a panel that always closes. Catalog search answered from your own copy first.",
-  "pub_date": "2026-09-13T16:13:28.932Z",
+  "version": "0.3.32",
+  "notes": "Slabs: the front is the front (the bridge reads PSA's own photo order, never picture size), the back photo has a real home and shows in the card panel as a two-photo slider, Reload photos from PSA/CGC/BGS re-pulls both from the grader, the Show page shows both sides, and no slab picture is hand-loaded by anyone. Pricing: the sample bar of 5 same-condition sales picks the window (30, 90, 180 days, all) with the tier and the slow tier's history on the card panel; the PC never prices in cloud mode; a TCGplayer quantity is stock, not a lot; scarce ask guards; the cloud packet feeds every same-condition sale. Live Desk: a cash payment shows the card sold on the laptop at once; the PC's bag and order mirrors no longer freeze on a bag deleted on another device. Price jobs carry the cloud release stamp.",
+  "pub_date": "2026-09-15T05:17:58.619Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEVnbkNwU01YV2pOaXJMdENLbUxCS1JRM1pOYTB3R1hFdnliVjFRNnluaHdpb1htZTExTGMySkFRMkM2UWdadGZqU0JFRk0zeVJrdzRvMHlLVnZVYWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjg3MDM3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzFfeDY0LXNldHVwLmV4ZQppZ1QrcEdjU2xmM1p5RlllSGdPZ1lRdTQ1NW9FQXIvM3lBUDJjdXV4S0pzT0NycmtkQWRHczhHTkFyYk54ckdaWW11RGlOSnFCd0doc01pN1J6cnFBQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.31/Benchmark.TCG_0.3.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE9iZUtBV2srSDUwcENBVkx2WHg3R0VMU0cxck92UjFlN2NSSFNJTjJ5bXFoNEwzbm1EYUxuZCs1U0tWVXYyQ3FQcmhtNXNYdDFPM2Q4VG9UcFhOVEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDQ5MzA4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzJfeDY0LXNldHVwLmV4ZQpSdHl6R1pRM1YzOHpZdGcyalcvWU56M0w4UWJpRis4Z2RJNVFRWGpqOGdkYzgwSEIrSGVncEkxR2xXZ2NOYkduNlZnR3NMaXExT1ZwaEt3QXlmTFBEdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.32/Benchmark.TCG_0.3.32_x64-setup.exe"
     }
   }
 }
