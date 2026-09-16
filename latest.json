@@ -1,11 +1,11 @@
 {
-  "version": "0.3.32",
-  "notes": "Slabs: the front is the front (the bridge reads PSA's own photo order, never picture size), the back photo has a real home and shows in the card panel as a two-photo slider, Reload photos from PSA/CGC/BGS re-pulls both from the grader, the Show page shows both sides, and no slab picture is hand-loaded by anyone. Pricing: the sample bar of 5 same-condition sales picks the window (30, 90, 180 days, all) with the tier and the slow tier's history on the card panel; the PC never prices in cloud mode; a TCGplayer quantity is stock, not a lot; scarce ask guards; the cloud packet feeds every same-condition sale. Live Desk: a cash payment shows the card sold on the laptop at once; the PC's bag and order mirrors no longer freeze on a bag deleted on another device. Price jobs carry the cloud release stamp.",
-  "pub_date": "2026-09-15T05:17:58.619Z",
+  "version": "0.3.33",
+  "notes": "Repricing: the scan files every card to the cloud up front and listens, so a card the box is still working never freezes the scan or fails for time, and the scan label counts down as answers land. The card panel's one-card refresh asks the cloud live first and only queues when it cannot answer. In cloud mode the PC never runs its own eBay scrape. Slabs: Reload photos always asks PSA, CGC or BGS again, refuses a stale cached row, and says what happened for the front and the back instead of silent success.",
+  "pub_date": "2026-09-16T23:38:16.665Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE9iZUtBV2srSDUwcENBVkx2WHg3R0VMU0cxck92UjFlN2NSSFNJTjJ5bXFoNEwzbm1EYUxuZCs1U0tWVXYyQ3FQcmhtNXNYdDFPM2Q4VG9UcFhOVEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDQ5MzA4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzJfeDY0LXNldHVwLmV4ZQpSdHl6R1pRM1YzOHpZdGcyalcvWU56M0w4UWJpRis4Z2RJNVFRWGpqOGdkYzgwSEIrSGVncEkxR2xXZ2NOYkduNlZnR3NMaXExT1ZwaEt3QXlmTFBEdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.32/Benchmark.TCG_0.3.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE5ZbkFYWi93L1cvVGdxRHVGclRDUnFJdXFoR2c2RnpvTDBzY1dEUlNTQ2t1TVh2VjZDYU91V2xITXBBN2xqeUNrMkpHbGZsYUQ5a0l6b0E3L0RqOUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTk4ODcxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzNfeDY0LXNldHVwLmV4ZQpUKzFKd09EUzN1ckFMOENEMExWTFpBY0JhWk9GWk51VE14M0JlWnhHOVE4YUxZeUlGalhuWmUzWVF5cUxqVUZWcHBrQzFsNzdFUVl5ZUVzV1loQXpEdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.33/Benchmark.TCG_0.3.33_x64-setup.exe"
     }
   }
 }
