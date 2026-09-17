@@ -1,11 +1,11 @@
 {
-  "version": "0.3.33",
-  "notes": "Repricing: the scan files every card to the cloud up front and listens, so a card the box is still working never freezes the scan or fails for time, and the scan label counts down as answers land. The card panel's one-card refresh asks the cloud live first and only queues when it cannot answer. In cloud mode the PC never runs its own eBay scrape. Slabs: Reload photos always asks PSA, CGC or BGS again, refuses a stale cached row, and says what happened for the front and the back instead of silent success.",
-  "pub_date": "2026-09-16T23:38:16.665Z",
+  "version": "0.3.34",
+  "notes": "Repricing: a full scan files cards to the cloud a few at a time instead of all at once, polls and cancels in chunks, and never wedges the pricing lane, so 778 cards land and the counter moves. Slabs: photos the bridge box collects now read as fresh, Reload waits up to three minutes with a visible counter and attaches the box's answer when it lands, and the panel messages wrap instead of pushing the sidebar. Stream: tap a chip in Benchmark and the app arms the box's stream overlay for that card, with the switch in Settings.",
+  "pub_date": "2026-09-17T15:36:56.927Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE5ZbkFYWi93L1cvVGdxRHVGclRDUnFJdXFoR2c2RnpvTDBzY1dEUlNTQ2t1TVh2VjZDYU91V2xITXBBN2xqeUNrMkpHbGZsYUQ5a0l6b0E3L0RqOUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTk4ODcxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzNfeDY0LXNldHVwLmV4ZQpUKzFKd09EUzN1ckFMOENEMExWTFpBY0JhWk9GWk51VE14M0JlWnhHOVE4YUxZeUlGalhuWmUzWVF5cUxqVUZWcHBrQzFsNzdFUVl5ZUVzV1loQXpEdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.33/Benchmark.TCG_0.3.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEkwakYvMEZQUXY2S0xGZ09mYkw3VmZGSlJIVUcvL1l3Qzlwb2FSVjVtbWw4UmNvRDNrT09EcDVTUmRrU2xOTmhNcFZpcUNDWEgweDk2RW1KVE95R2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjU3OTk5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzRfeDY0LXNldHVwLmV4ZQoyeU80ZGZMVElwVmRSQ2xhUGtLbEFnMXZNUk9EWkdlWkhiQXpZbFRaQkwyak9zczEzeTRsNE1UWDBnQzdFU2RrVTFuNHp2YUdEUHRycW9XTnNHbVZBUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.34/Benchmark.TCG_0.3.34_x64-setup.exe"
     }
   }
 }
