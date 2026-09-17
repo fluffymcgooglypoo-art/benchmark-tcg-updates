@@ -1,11 +1,11 @@
 {
-  "version": "0.3.36",
-  "notes": "Reprice fix: when the pricing box's eBay lookup crashes, it no longer leaves the next card stuck behind a dead browser; a wedged one now resets on its own instead of hanging the queue",
-  "pub_date": "2026-09-17T22:01:08.166Z",
+  "version": "0.3.37",
+  "notes": "The pricing wait line names the card and says when the box is doing an eBay lookup",
+  "pub_date": "2026-09-17T23:44:52.679Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEkvRCt1eW5JUkhNV2tScVRmbzNCUnMzOG1SdEhEU1ptK0pHY0poYXRQRkZuOFFibFN4YktETXp5bm5STDNOUWtaU2pqQzRSeGhiQ0JzSDJvN3dITXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjgxOTIzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzZfeDY0LXNldHVwLmV4ZQpkWGNXSnVSWDBkVW90T2p1MFpCakFncjNMVU1zSlo1L01jUEZyQitZS0FnenpubjN3Z1ZRdFkzeG5sSkN4ZHErRkZNOURSY1FjUE9jS0h6b21tL2dEQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.36/Benchmark.TCG_0.3.36_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWFBpZDRWYWp5czV5MlpjUFJOM2UyWkFQNjZ1bUZ0NU45bmZwWmxaMkJjNEJYQ3pWelhkODJvaUowa0NwTFRIaEFiMkxzRlh6Yy8wMlA4ODRiOVhEUWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg2NDcyCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzdfeDY0LXNldHVwLmV4ZQpXNkFWL3lQYWU4S3hsUFAzVUttalNSVXVhcFR2amh5SVNQZjhGMkZ6OU4rdm0wMU9VSFFDZGIxNkt2RllCcTMwUk5jTWhiS2ZvOFFYdlZvZXFERklEQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.37/Benchmark.TCG_0.3.37_x64-setup.exe"
     }
   }
 }
