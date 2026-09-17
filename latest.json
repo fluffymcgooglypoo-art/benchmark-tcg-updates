@@ -1,11 +1,11 @@
 {
-  "version": "0.3.35",
-  "notes": "Repricing fix: a card sent to the cloud lands on one job even when the request times out, so the same card is never priced ten times over; requests wait 30 s instead of 10; polls run in parallel; the scan shows how many cards are not sent yet; the pricing lane writes a log on this PC for the next stall",
-  "pub_date": "2026-09-17T18:35:55.395Z",
+  "version": "0.3.36",
+  "notes": "Reprice fix: when the pricing box's eBay lookup crashes, it no longer leaves the next card stuck behind a dead browser; a wedged one now resets on its own instead of hanging the queue",
+  "pub_date": "2026-09-17T22:01:08.166Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEJVNlJxT0xwVDR4REdTVytaWTYzbHpzRVgvMm1tNEhqOUpDdC95QUQzOTl4L240alF2ci9FMFl5MlEvOE0vZGNKOStiT3c4RlZpSFpoK21HSjY1VHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY5NjM4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzVfeDY0LXNldHVwLmV4ZQpIenFMWldTRGg2UDhiT1dMZnRKRGQ1dHQzdGJNUDRHTWpzdnFnYUw4bldnZDhHMXJOLzViRlpHendOQWdsOHVXQm5Va01wWjI3Tk9CWUowTHVrRHZEdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.35/Benchmark.TCG_0.3.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEkvRCt1eW5JUkhNV2tScVRmbzNCUnMzOG1SdEhEU1ptK0pHY0poYXRQRkZuOFFibFN4YktETXp5bm5STDNOUWtaU2pqQzRSeGhiQ0JzSDJvN3dITXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjgxOTIzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuMzZfeDY0LXNldHVwLmV4ZQpkWGNXSnVSWDBkVW90T2p1MFpCakFncjNMVU1zSlo1L01jUEZyQitZS0FnenpubjN3Z1ZRdFkzeG5sSkN4ZHErRkZNOURSY1FjUE9jS0h6b21tL2dEQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.36/Benchmark.TCG_0.3.36_x64-setup.exe"
     }
   }
 }
