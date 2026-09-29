@@ -1,11 +1,11 @@
 {
-  "version": "0.3.41",
-  "notes": "Fixes 0.3.40 not starting. The app's local service crashed on its first line in the packaged build, and a database update step refused to run on real data because of old orphaned rows unrelated to the update. Both fixed. Everything from 0.3.40 is in here unchanged.",
-  "pub_date": "2026-09-29T05:45:28.560Z",
+  "version": "0.3.42",
+  "notes": "Fixes three things from 0.3.41. Print label and Print a test label failed with a missing System.Drawing.Printing message: the print script now loads its printing pieces the way Windows PowerShell expects. Address Verify on the Ship page called every address unverified: the check was being sent to EasyPost in the wrong spot, so EasyPost never ran it. Deleting an order the cloud had already removed said order not found: that ghost row now just leaves your list.",
+  "pub_date": "2026-09-29T06:34:04.708Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE5EbVYvOEhoSFBVSkZ1WmdnQWs5U2NiaWhIYTF4dlpXVS9STG9pVmZBYTBQTmZlb3graWdyY1dpRGpId2xiNmgxbEJ1NDhyZTE2U0ZWbDV4NEdIVXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjU5OTg5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDFfeDY0LXNldHVwLmV4ZQpzSnVqSlRHN2s0eGE2UGk2a0RyQUdiSldpM3NxRGpiOWlQaXVkeGE1Rk5BK200ZFlDNERWbENxY3cyNXBhbG1NSFk5bS9PRnU2cVlhbUs2YWtmZHFBUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.41/Benchmark.TCG_0.3.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERta3hhVTIvRlZFeTA1YnlQalZsTG1tVTR6V3YxRmdiOWpSZFJiU2VUVmtJcktQaUNESjEybXNhZm9lZmdZL2l4aEJ1N1ZyRTZXRTFaaTZ2OGhJSFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjYyODM4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDJfeDY0LXNldHVwLmV4ZQpWMmVTV2JLU1I0WWlINXFldmNHVVBNQ0dBaFVIK2Zad1ExMFowb1JwY0NldlB2S0I0Ukp0MkQ3ZWE2VG5JWDQ5YXoyaVk3dGpRR3VEK0FlOEN6K0pEUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.42/Benchmark.TCG_0.3.42_x64-setup.exe"
     }
   }
 }
