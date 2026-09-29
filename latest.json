@@ -1,11 +1,11 @@
 {
-  "version": "0.3.42",
-  "notes": "Fixes three things from 0.3.41. Print label and Print a test label failed with a missing System.Drawing.Printing message: the print script now loads its printing pieces the way Windows PowerShell expects. Address Verify on the Ship page called every address unverified: the check was being sent to EasyPost in the wrong spot, so EasyPost never ran it. Deleting an order the cloud had already removed said order not found: that ghost row now just leaves your list.",
-  "pub_date": "2026-09-29T06:34:04.708Z",
+  "version": "0.3.43",
+  "notes": "Shipping: several orders for one customer go in one box with one label, and tracking reaches every order in the box. After a buy the Ship page stays on the label and prints it to your printer on its own, with a Settings switch that is on by default. A shipped order opens as a Shipped screen with Reprint label, Open label PDF, Refresh tracking and Refund label, and Ship again after a refund. Insurance shows after the buy, and the handle plus real name show on the shipping side only. Every label you buy files its postage and insurance as a shipping expense, and a refund takes it back. Live Desk: an Open tab and a Paid tab. A paid, held or shipped bag moves to Paid, newest first, with a Ship link on each. Fixes: no window flashes when a label prints, and an order the cloud already removed leaves your list on delete every time.",
+  "pub_date": "2026-09-29T15:10:08.608Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERta3hhVTIvRlZFeTA1YnlQalZsTG1tVTR6V3YxRmdiOWpSZFJiU2VUVmtJcktQaUNESjEybXNhZm9lZmdZL2l4aEJ1N1ZyRTZXRTFaaTZ2OGhJSFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjYyODM4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDJfeDY0LXNldHVwLmV4ZQpWMmVTV2JLU1I0WWlINXFldmNHVVBNQ0dBaFVIK2Zad1ExMFowb1JwY0NldlB2S0I0Ukp0MkQ3ZWE2VG5JWDQ5YXoyaVk3dGpRR3VEK0FlOEN6K0pEUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.42/Benchmark.TCG_0.3.42_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExOK2RwREFYbTEzQWdSTkY1djArZ2FWdnh1aGI2WWhabGF4cjl4cXRxZ3Jka3FYSkxBbFFCTkx0VUUxdW5zVjYwMkhQeVFIM0pnOEV4dEtqeHpPNGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjY5MTMyCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDNfeDY0LXNldHVwLmV4ZQp1blRXRFc1VFgrTHUvUXRGZ3MwdEw3Q2Q0S0FDTUNGZkR5L3JrSUpIME8wSFE5dGFyd2svcUQ2Mnk4Uzg5RDBNZ1pINWc5Unc3NEJ6RzlFNG81WjFCZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.43/Benchmark.TCG_0.3.43_x64-setup.exe"
     }
   }
 }
