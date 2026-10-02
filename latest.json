@@ -1,11 +1,11 @@
 {
-  "version": "0.3.45",
-  "notes": "Live Desk: Delete bag works on any bag. A checked-out bag is undone and deleted in one confirm, a paid bag reverses the payment first and the confirm names the amount, a shipped bag stays until its label is refunded. Edit name on the bag card changes the customer's username and name right there. Hold is out of the checkout panel and stays on the bag card, so a hold only happens when you press it. A chip tap on a card that already sold never enters the dock or lands on deck in Stream Mode; a popup names the card instead. Shipping: the Package step reads Padded envelope, Box, Letter or flat, opens on Padded envelope, and Slab box is gone. The Ship to step's Username box shows the handle capitalized with no @, and the Name box never fills with the username. Customers: a new customer made from a bag is named by the handle with no @, and the names that carried one are cleaned up.",
-  "pub_date": "2026-09-30T05:07:46.591Z",
+  "version": "0.3.46",
+  "notes": "Benchmark Pricing rebuilt as Raised, Dropped and Unchanged with a floor you set, Accept all, the full row, and Manual comps with Comp it; Slabs, Sealed singles and Sealed product as their own areas; a pasted eBay link is checked and refused with the reason when it is the wrong card. A sort on every table. Check all on the Live Desk checkout. A graded sale never counts for a raw card and one lone sale never sets the number alone. The eBay search is card name, number and sealed. The shipped-order tracking refresh runs again.",
+  "pub_date": "2026-10-02T01:36:35.616Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEN3a3M1ZCtId1hjYUJDMVgrNkJhZXpZVzAyYmw3QUVQemU0c1VsS1pET1dZVEw5Z1NMelVwTkxHNzk2aXFwdkVTSTZOQm5QdjR2ZEJaSGw3b05SSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzQyMDYyCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDVfeDY0LXNldHVwLmV4ZQpjSmc4b2luQmovVWRRZUdYdDFtUWlxbEYwekZvV0R4d0JpTDJDTFIzdCs2RzRwLzFkcnlSTXRCdiszQnE5WE1sZUNEb011UWp3TXo0UDM0OHM5N25Ddz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.45/Benchmark.TCG_0.3.45_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWElYUTF2RUtPOUd4T0w0NXUzRjF3Kys3Q01XS1NPRVhqTlFXeWVrbkpJL2dRNDZhZDFuQkIvdW1JZDkwYk4rMmh3SkVDY0FjaUp3REgrc1JpMGNST3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc3MzE2CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDZfeDY0LXNldHVwLmV4ZQppRHF6R1gzYmJZSDFJUWowdytZbEVTUkxpVGxKU290U2h2ejdjYkFWWU9pTldoS2dxVUNLczFSUXpDYzNBMkM5aXRmWUdKeDlQdEVqWEdTM1ppVGxEQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.46/Benchmark.TCG_0.3.46_x64-setup.exe"
     }
   }
 }
