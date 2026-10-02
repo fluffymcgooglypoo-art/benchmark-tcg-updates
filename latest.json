@@ -1,11 +1,11 @@
 {
-  "version": "0.3.47",
-  "notes": "Offline mode: the app opens and keeps working with no internet, and every change you make offline (cards, customers, lots, sales, bags, orders, trades, expenses) is kept and sent in order when the connection is back, with a Changes waiting to send panel. The show display: your logo on the gradient and the pups bouncing the SCAN CARD sign when nothing is scanned, back after 60 seconds. Benchmark Pricing: the Benchmarks on this PC now refresh from the cloud every 15 minutes and on Price all, the page never starts a scan on open, Price all re-prices every card, the areas are chips you can filter by and sections you can fold, and the stamp reads Priced N hours ago. The Review workspace: a picture on every row, a Back button, the squares are the filter, plain-word reasons, no more identity conflict on cards that are fine, and stale reviews close on their own. Inventory: Cost, Current price and Benchmark sit together and the row is bigger. The app is one fixed frame: only the content scrolls, never the window.",
-  "pub_date": "2026-10-02T05:12:57.409Z",
+  "version": "0.3.48",
+  "notes": "The cloud prices and the PC shows it: card panel, Add Card and lot intake receipts come from the cloud. Your price rule: a sale is the price unless the listings say otherwise. Price all reprices raw singles only, skips a card that goes quiet, and asks the cloud to re-check now. A Needs a product area on Benchmark Pricing. A best-offer-only card asks what it sold for. Live art plays on every tap.",
+  "pub_date": "2026-10-02T15:04:19.723Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEhYMHdOZHllcmRvVlI0eDZkZ3NlRWpsWERVNFZISUc2MWV5NWNDTCs4RTEwZzEvRzU2di9qb0ZkbnRlZnY0TWpvWm9IZ01mdjc4bTFlMWVRbWNVZFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTE2NDM3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDdfeDY0LXNldHVwLmV4ZQpPM3pVdkVKVjNBNzdlM0xCcFlMS1hUVnVtNWF6V205eXF5c3pqYWpoU0Z6ZzBxVUt2REtZQzZabE1ZR09ZazBBVEF3RENXYWo4OVB3NHVJek9qNDhBUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.47/Benchmark.TCG_0.3.47_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEdkWkhTbFhWWUFENzlrbFJMYVlJZlRHVENhNEFUaUdzZTdXcTdZSElvOUt4cldGOUJLZk5yYUtJaWxoQ3UwRnF6VGZkaUd5OEZGYXFJdURib0txdXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTMwNTAwCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDhfeDY0LXNldHVwLmV4ZQpObGpwVzRORW9XYnpka1BBblhrcHY0bEFzL1JsUHE0RGZ1bkM2b3poQVM0RC94bTVFeVNScFdmWXJvN2VqOXFlcjVBMlRZb0hPWFpOWThyYlV1SGZEUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.48/Benchmark.TCG_0.3.48_x64-setup.exe"
     }
   }
 }
