@@ -1,11 +1,11 @@
 {
-  "version": "0.3.48",
-  "notes": "The cloud prices and the PC shows it: card panel, Add Card and lot intake receipts come from the cloud. Your price rule: a sale is the price unless the listings say otherwise. Price all reprices raw singles only, skips a card that goes quiet, and asks the cloud to re-check now. A Needs a product area on Benchmark Pricing. A best-offer-only card asks what it sold for. Live art plays on every tap.",
-  "pub_date": "2026-10-02T15:04:19.723Z",
+  "version": "0.3.49",
+  "notes": "Live art plays on every tap even when the helper is slow, with log lines on every tap, answer and play. Price all shows the cloud's own count and refreshes each card as it lands. A card with no product says so instead of showing an old date. Cards with a TCGplayer link heal themselves, and a Refresh heals one on the spot. A card added from a TCGplayer link carries its product id at once. Add Card and the lot intake price from the cloud.",
+  "pub_date": "2026-10-02T18:59:17.415Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEdkWkhTbFhWWUFENzlrbFJMYVlJZlRHVENhNEFUaUdzZTdXcTdZSElvOUt4cldGOUJLZk5yYUtJaWxoQ3UwRnF6VGZkaUd5OEZGYXFJdURib0txdXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTMwNTAwCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDhfeDY0LXNldHVwLmV4ZQpObGpwVzRORW9XYnpka1BBblhrcHY0bEFzL1JsUHE0RGZ1bkM2b3poQVM0RC94bTVFeVNScFdmWXJvN2VqOXFlcjVBMlRZb0hPWFpOWThyYlV1SGZEUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.48/Benchmark.TCG_0.3.48_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWElaVkdFSllpT25QaThqWWUxcFB0QlQrWXpzaFl3WnNDL3VSSHNOaVh0RjhERWk4cml2WEdka2lyS0owbHBSVFlrcUtqRXRDQ2xmaVV2OVRmREhCQXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTY1MzQxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDlfeDY0LXNldHVwLmV4ZQowZHpaMGVmQkMzYVA3NUFLZG8raGI4VnUwVGk5dGIzb3hFOEhKWGF6RlZCaGFHYlZQNXJ1RXVqYUJCNVZ0cTBieWFWVzZ2R3dENm83cGFMbzJGSVVBUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.49/Benchmark.TCG_0.3.49_x64-setup.exe"
     }
   }
 }
