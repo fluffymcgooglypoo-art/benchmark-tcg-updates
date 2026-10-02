@@ -1,11 +1,11 @@
 {
-  "version": "0.3.46",
-  "notes": "Benchmark Pricing rebuilt as Raised, Dropped and Unchanged with a floor you set, Accept all, the full row, and Manual comps with Comp it; Slabs, Sealed singles and Sealed product as their own areas; a pasted eBay link is checked and refused with the reason when it is the wrong card. A sort on every table. Check all on the Live Desk checkout. A graded sale never counts for a raw card and one lone sale never sets the number alone. The eBay search is card name, number and sealed. The shipped-order tracking refresh runs again.",
-  "pub_date": "2026-10-02T01:36:35.616Z",
+  "version": "0.3.47",
+  "notes": "Offline mode: the app opens and keeps working with no internet, and every change you make offline (cards, customers, lots, sales, bags, orders, trades, expenses) is kept and sent in order when the connection is back, with a Changes waiting to send panel. The show display: your logo on the gradient and the pups bouncing the SCAN CARD sign when nothing is scanned, back after 60 seconds. Benchmark Pricing: the Benchmarks on this PC now refresh from the cloud every 15 minutes and on Price all, the page never starts a scan on open, Price all re-prices every card, the areas are chips you can filter by and sections you can fold, and the stamp reads Priced N hours ago. The Review workspace: a picture on every row, a Back button, the squares are the filter, plain-word reasons, no more identity conflict on cards that are fine, and stale reviews close on their own. Inventory: Cost, Current price and Benchmark sit together and the row is bigger. The app is one fixed frame: only the content scrolls, never the window.",
+  "pub_date": "2026-10-02T05:12:57.409Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWElYUTF2RUtPOUd4T0w0NXUzRjF3Kys3Q01XS1NPRVhqTlFXeWVrbkpJL2dRNDZhZDFuQkIvdW1JZDkwYk4rMmh3SkVDY0FjaUp3REgrc1JpMGNST3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODc3MzE2CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDZfeDY0LXNldHVwLmV4ZQppRHF6R1gzYmJZSDFJUWowdytZbEVTUkxpVGxKU290U2h2ejdjYkFWWU9pTldoS2dxVUNLczFSUXpDYzNBMkM5aXRmWUdKeDlQdEVqWEdTM1ppVGxEQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.46/Benchmark.TCG_0.3.46_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEhYMHdOZHllcmRvVlI0eDZkZ3NlRWpsWERVNFZISUc2MWV5NWNDTCs4RTEwZzEvRzU2di9qb0ZkbnRlZnY0TWpvWm9IZ01mdjc4bTFlMWVRbWNVZFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTE2NDM3CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNDdfeDY0LXNldHVwLmV4ZQpPM3pVdkVKVjNBNzdlM0xCcFlMS1hUVnVtNWF6V205eXF5c3pqYWpoU0Z6ZzBxVUt2REtZQzZabE1ZR09ZazBBVEF3RENXYWo4OVB3NHVJek9qNDhBUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.47/Benchmark.TCG_0.3.47_x64-setup.exe"
     }
   }
 }
