@@ -1,11 +1,11 @@
 {
-  "version": "0.3.50",
-  "notes": "The show display plays your live art: the app's security policy now lets the show screen load a clip from the helper on your PC, and every live art step writes to the app's log. The cloud's new prices reach the app within two minutes and whenever you return to it, every re-check shows its progress, and the page says how many cards just updated.",
-  "pub_date": "2026-10-02T20:41:49.322Z",
+  "version": "0.3.51",
+  "notes": "Show Mode: the in-person desk on one page. Tap or search a card and see your side (owned, paid, from, when) and the market with its proof; Sell into a bag, Buy what the customer brought, Trade across the table while you keep tapping; the customer screen follows. Show Mode takes Live Claims' place in the sidebar (Live Claims stays reachable one release from a link under the title). Orders: a Profit column per order, a total for the rows on screen, and a By show view. Price all leaves alone any card priced in the last hour.",
+  "pub_date": "2026-10-06T00:36:51.865Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEFJdzdNdjFHZnNuREhIRDRVS2xYOUVvMUlyZUVoVitiMTZKUHBsZ0tWSEZqakpTS045MEk4SnlPZDlpUldPeHo2dXhEbjJEakUvcjJxMkpsSy8vT0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTcxMDY5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTBfeDY0LXNldHVwLmV4ZQpXMzhVWEJWYldmdG9kYlpDOHdJcGpHMzlRMjVQTWdyS2VwOGxnVUFZdGdCa3hrVDNYZ3dvU09YU0NrYysrbkRDVVhtVm8rT3RLUHo0R0x2SklMU3JDdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.50/Benchmark.TCG_0.3.50_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEhtK0NpQ05yaGwyc1pRRW90UG5ZZjRqQ2dGRUxXTEEvNmZFSHZYb2NibWJzSVNkTXVqbktRZjExVmphR20zQ1NWdFhYWXlyZjVXUzVWWlhGR1l6TkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjQxNTY0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTFfeDY0LXNldHVwLmV4ZQphOTFieGtyNUJIS1JOdFhXOTc3dGFaNlVJV0JialNEODFobU5Mc09LVWx6ek1pdEJNUGZaRlVyNDhjajN0UTlqUnd0TGd4N3k2L1ROM08waDVRMEZCdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.51/Benchmark.TCG_0.3.51_x64-setup.exe"
     }
   }
 }
