@@ -1,11 +1,11 @@
 {
-  "version": "0.3.52",
-  "notes": "A card with no number asks the cloud for one on the spot: add a card and it is priced right away instead of waiting for the hourly pass; Show Mode shows Pricing now while it waits and the number lands in the panel; buyout rows waiting on a price fill in as the numbers land; Price all moves your just-added cards to the front of the line.",
-  "pub_date": "2026-10-07T03:17:02.302Z",
+  "version": "0.3.53",
+  "notes": "Buyouts: a card the cloud has never priced now reads Pricing now and gets its number on the spot, on the panel and on the stack row. The price updater backs off harder when TCGplayer refuses it and comes back slowly.",
+  "pub_date": "2026-10-07T05:51:47.854Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEVZcTZYRHJ4V3dJazJWdVpGUzJWdlRkM3pnMTRGeVJENE1IdHhPdXdEQXFJRVVPZHVJenNaZ2dLc0svcjU1dWc5ZXRZaFc5dko2UVpERVNodWRoN1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzM2NTkyCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTJfeDY0LXNldHVwLmV4ZQpBLytrdXErczJQMVRoRFF2dHZEYW1rNmJDZDlCT254Wk14L1lwSVFhOHJZUmlTalJYMlpuOVZwcVQrNGxnNVRpNVU1V3lxUnhaWjVYN1VvbEhJejRBZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.52/Benchmark.TCG_0.3.52_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExtOW41QU94azl0SlRrZzR4M1krajgxR1lrUGtqM0pjSHNSQkN6SE1oY2kra3Vuc3UxNDBoMndvd1QwOXRUdHRCY1gwdjFiWkVXYWN3a0xPSEFxWkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzUwNzExCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTNfeDY0LXNldHVwLmV4ZQowemdIQWFDZ2ZvSXJtNmQyM1Fjc2JBRzFQck9XeFl5RDFIeGtLcHAyUWk1YjhSVVRqY2phK3orYmFjQkduSVRBbDJXK2J1enpvMFhKVTZrZkN2cjBBZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.53/Benchmark.TCG_0.3.53_x64-setup.exe"
     }
   }
 }
