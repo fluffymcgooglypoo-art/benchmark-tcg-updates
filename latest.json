@@ -1,11 +1,11 @@
 {
-  "version": "0.3.53",
-  "notes": "Buyouts: a card the cloud has never priced now reads Pricing now and gets its number on the spot, on the panel and on the stack row. The price updater backs off harder when TCGplayer refuses it and comes back slowly.",
-  "pub_date": "2026-10-07T05:51:47.854Z",
+  "version": "0.3.54",
+  "notes": "Every price age now shows when the card was last checked, not just when the number last moved. The price updater restarts itself if it freezes, skips quiet cards more accurately, remembers across restarts, and begins pricing the whole catalog on a steady schedule.",
+  "pub_date": "2026-10-08T05:33:59.622Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWExtOW41QU94azl0SlRrZzR4M1krajgxR1lrUGtqM0pjSHNSQkN6SE1oY2kra3Vuc3UxNDBoMndvd1QwOXRUdHRCY1gwdjFiWkVXYWN3a0xPSEFxWkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzUwNzExCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTNfeDY0LXNldHVwLmV4ZQowemdIQWFDZ2ZvSXJtNmQyM1Fjc2JBRzFQck9XeFl5RDFIeGtLcHAyUWk1YjhSVVRqY2phK3orYmFjQkduSVRBbDJXK2J1enpvMFhKVTZrZkN2cjBBZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.53/Benchmark.TCG_0.3.53_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEpLSS9aN0lqL2REaFlSNmxBZWwyemtzNDNwdzRlMWEzcWxkUExsNDZic0J5cnY4SzN2M3V4ZS9kTjBvL1JYK1pXQW40ajMyTU9ranhpdWFyQ2hTMUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDMyODEzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTRfeDY0LXNldHVwLmV4ZQp1UUh1N0xMSUczRzEwaUZiL2NrRU9Ma010NzRSU3ExYkRPVTE2OFFBMHkyZmx6RXZUVEJEbXVhQ3BENmxoMm1vaVVSUlRLWmtWdzlkbTE2ZkZjWDlCQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.54/Benchmark.TCG_0.3.54_x64-setup.exe"
     }
   }
 }
