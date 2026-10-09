@@ -1,11 +1,11 @@
 {
-  "version": "0.3.54",
-  "notes": "Every price age now shows when the card was last checked, not just when the number last moved. The price updater restarts itself if it freezes, skips quiet cards more accurately, remembers across restarts, and begins pricing the whole catalog on a steady schedule.",
-  "pub_date": "2026-10-08T05:33:59.622Z",
+  "version": "0.3.55",
+  "notes": "Binders stage 1, and Add Card pricing: new cards jump the line, the loader waits for the number, and every condition, sales and listings load with no refresh.",
+  "pub_date": "2026-10-09T06:46:32.643Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEpLSS9aN0lqL2REaFlSNmxBZWwyemtzNDNwdzRlMWEzcWxkUExsNDZic0J5cnY4SzN2M3V4ZS9kTjBvL1JYK1pXQW40ajMyTU9ranhpdWFyQ2hTMUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDMyODEzCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTRfeDY0LXNldHVwLmV4ZQp1UUh1N0xMSUczRzEwaUZiL2NrRU9Ma010NzRSU3ExYkRPVTE2OFFBMHkyZmx6RXZUVEJEbXVhQ3BENmxoMm1vaVVSUlRLWmtWdzlkbTE2ZkZjWDlCQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.54/Benchmark.TCG_0.3.54_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEV2aEN6dDhOWXdadjlKQWdwMCtpZTZLUkszSXkwazhKejBlbGxZNzhHU2crYVdxM3gxOHRQRU1BUmFsNjZoUjhTLzc3TnNyNkQ2N1NleFluUCtkOFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTIyODE0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTVfeDY0LXNldHVwLmV4ZQpxSENiekl2UzZZQ2p6STh5SGxxRTdwdlBTWXoyb0VuN29LT0dMYzBnVFpqY0ZqV28vYkxrY1BDc3I2czhvb1BHRVFaZTMxbW9USFVtaGk0WFBtNGREdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.55/Benchmark.TCG_0.3.55_x64-setup.exe"
     }
   }
 }
