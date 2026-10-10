@@ -1,11 +1,11 @@
 {
-  "version": "0.3.55",
-  "notes": "Binders stage 1, and Add Card pricing: new cards jump the line, the loader waits for the number, and every condition, sales and listings load with no refresh.",
-  "pub_date": "2026-10-09T06:46:32.643Z",
+  "version": "0.3.56",
+  "notes": "Custom binders with tabs and a finish picker. Benchmark Pricing adds the Flow view; Price all is gone and every screen shows one Benchmark number. Buyout lots price live on the row. Add Card gets its animated loader and live condition list. Fixes a price sync bug that could show stale Benchmarks after the app was closed.",
+  "pub_date": "2026-10-10T02:55:17.895Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEV2aEN6dDhOWXdadjlKQWdwMCtpZTZLUkszSXkwazhKejBlbGxZNzhHU2crYVdxM3gxOHRQRU1BUmFsNjZoUjhTLzc3TnNyNkQ2N1NleFluUCtkOFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTIyODE0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTVfeDY0LXNldHVwLmV4ZQpxSENiekl2UzZZQ2p6STh5SGxxRTdwdlBTWXoyb0VuN29LT0dMYzBnVFpqY0ZqV28vYkxrY1BDc3I2czhvb1BHRVFaZTMxbW9USFVtaGk0WFBtNGREdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.55/Benchmark.TCG_0.3.55_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE83d0pJU1pBV2VjNktRd1pGUDhzTlBHalMzeFNyQUFKSXIvWFRXQlJnQUhheFFWcVF3ckQxUWkxdThVZEU3d3RaaVhtUEc5cWcza1lrN3F4QXNsL0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTk4MjE5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTZfeDY0LXNldHVwLmV4ZQpncnRTMG1XRW9Fb3BWYmhKUG5jN2tKNnFQSkhDWldoT1NQY2g5UUVzNzRvTURNUG1tZ1k1U1c0YUNUYlJGRDBab3VYVmlocEpGRFU0TUZnbVNnZFlCdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.56/Benchmark.TCG_0.3.56_x64-setup.exe"
     }
   }
 }
