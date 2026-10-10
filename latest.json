@@ -1,11 +1,11 @@
 {
-  "version": "0.3.57",
-  "notes": "The Benchmark Pricing Flow fills the screen with your card art on the new app-wide night sky. Price waits animate everywhere, buyout lookups load their sales on landing, and in-app feedback now reaches us directly, no email.",
-  "pub_date": "2026-10-10T04:41:55.316Z",
+  "version": "0.3.58",
+  "notes": "Cloud first: your inventory and prices now load straight from the cloud, with the PC copy only as an offline backup. Landed prices show the right number for the condition you picked. The Flow fits any screen, plays live art, and loops. Frosted header.",
+  "pub_date": "2026-10-10T07:33:17.919Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEdtcWVDSHN6L1dwM29Yd0d5enhXb0hZV01qcUxLVXJnMWpldWFkLzV3UkZmUjRJVmlDR1JjcVRLckYzNEF1ZHJMUnVlZUJCWEEyV05FN3ZzU1lkTkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjA2ODY0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNTdfeDY0LXNldHVwLmV4ZQpGOEF1MDl0ZXloQ1U5TjJOTnRlLzJDMDUvUWJab3BNVFB0ZkRjaXc0Z0VpaFk2SU44a0VTUGh5MG8rNVBqbjVuNW5kSTV6RE1MNHNzdStCaVByNUdBQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.57/Benchmark.TCG_0.3.57_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE5JWVRCMXBRcmRnM3QwTW1LQkl5cWZDSU8zLy9GRW5XN2duODFCa2oycThpVXplNTM5STkvOXJOUHVOZDBSa3dXZitQRnlLdlpaTVcwdnEwdk5aR3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjE3MTUxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNThfeDY0LXNldHVwLmV4ZQpZajlvdUpraUdpa2VIRG1ZbDgvQnVpMTRNck9NMFFZNWhORi90WHk0L2FpZzVlU2g3blZNdlNaNGN6WUlWTXlsSWRyMWpmdEQ1c2pGd0V6ZEVrNE9CUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.58/Benchmark.TCG_0.3.58_x64-setup.exe"
     }
   }
 }
