@@ -1,11 +1,11 @@
 {
-  "version": "0.3.60",
-  "notes": "Cloud first everywhere: orders, customers, trades, lots, expenses, bags, the Benchmark Pricing list and the portfolio history read the cloud first, the PC copy only as the offline backup, and order lines come from the cloud. TCGplayer links open the card's own condition and printing. Benchmark Pricing hides moves under your dollar filter, with an Under chip to see them. The ask lane serves in seconds, and cards thin on TCGplayer price from eBay sales. Needs UID is off the Inventory rows. The stream sales box is its own OBS browser source. A chip scan always links the chip and the link is written only when it fits, buyout notices sit above Your Offer, and lot rows scan their own chip.",
-  "pub_date": "2026-10-11T00:50:17.107Z",
+  "version": "0.3.61",
+  "notes": "Price boxes keep every digit, Benchmark fixes, lot and Flow refresh",
+  "pub_date": "2026-10-11T04:12:40.294Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEpKY0RWMVIzUEhWU3YxZHR2cEZpYnFXUml1OXlTaDdKZ25mMmFQUTR6QXI3U2tjV2syc2dONCtWbURZUnh6UmVoMXJocVptU2cyc2hqT1NSNUhQZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc0NDQxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjBfeDY0LXNldHVwLmV4ZQpGdHUyZkxlNUtGeXU5S0cwN3RCZ3daVXVQRDZYUFZlVGp2YnpBVEx2MXBWaWhSdzUwQmRGYnFUbkdwdEhYdzdSM3E1SnNrTTBCVjRiQXBMbG5iK0tCdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.60/Benchmark.TCG_0.3.60_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENxZ29HWlJrdVVjWndJZDZ6TW14bEJvbEVTZkt5ckxDZlIycmdzdW5ieTl1bFRZclZJbG52cUR1czc5Y0FMSXJPL0czKzJRY0JQUlBnaHQ5OTdNYlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjkwODgxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjFfeDY0LXNldHVwLmV4ZQo5cjZEL09KVDNJc01PT0hYOEtJckR3bUdkT2tXSkRiQWRMaGNlMEFEWnlvM3cvOUxFNkM1NDRLcms1REZFN0VtZEY3SWdyOXY4QnVhT1NxbndBenFBZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.61/Benchmark.TCG_0.3.61_x64-setup.exe"
     }
   }
 }
