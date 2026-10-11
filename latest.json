@@ -1,11 +1,11 @@
 {
-  "version": "0.3.61",
-  "notes": "Price boxes keep every digit, Benchmark fixes, lot and Flow refresh",
-  "pub_date": "2026-10-11T04:12:40.294Z",
+  "version": "0.3.62",
+  "notes": "Slabs with no catalog link show their own name, set and price on stream when you tap the chip. Cards you create reach your inventory with their picture, the create screen takes eBay links, lots take a quantity, and lot and buyout can create a new card. TCGplayer links open with no language filter.",
+  "pub_date": "2026-10-11T22:24:45.352Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENxZ29HWlJrdVVjWndJZDZ6TW14bEJvbEVTZkt5ckxDZlIycmdzdW5ieTl1bFRZclZJbG52cUR1czc5Y0FMSXJPL0czKzJRY0JQUlBnaHQ5OTdNYlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjkwODgxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjFfeDY0LXNldHVwLmV4ZQo5cjZEL09KVDNJc01PT0hYOEtJckR3bUdkT2tXSkRiQWRMaGNlMEFEWnlvM3cvOUxFNkM1NDRLcms1REZFN0VtZEY3SWdyOXY4QnVhT1NxbndBenFBZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.61/Benchmark.TCG_0.3.61_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEIyNUg5N1VqNFVWY3M1V3BLTytwSFVXcHAxMDArdmthamgvSHJoR0VsbGhuSDh2N1l4YU9QVm5xSko2OU12V3lNbFFzaU03RHoraXFQdmxacU1nb3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU3MzU2CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjJfeDY0LXNldHVwLmV4ZQoySG1MYlVFY2Q3MXRRMWdoZnlWRGhrYW9DUnJBc0xsZGhHV0I2M2JUU2dob2VGNUgra3ZpNHBzQnFIbytlNndGWG5DTTZwTnpVbHdjMXRuTDZUSlhDZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.62/Benchmark.TCG_0.3.62_x64-setup.exe"
     }
   }
 }
