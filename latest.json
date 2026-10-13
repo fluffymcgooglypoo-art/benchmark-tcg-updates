@@ -1,11 +1,11 @@
 {
-  "version": "0.3.62",
-  "notes": "Slabs with no catalog link show their own name, set and price on stream when you tap the chip. Cards you create reach your inventory with their picture, the create screen takes eBay links, lots take a quantity, and lot and buyout can create a new card. TCGplayer links open with no language filter.",
-  "pub_date": "2026-10-11T22:24:45.352Z",
+  "version": "0.3.63",
+  "notes": "Prices stop showing the loading wheel once a price is on screen. Buyout and the scan panel ask for the exact version you pick, so a new version prices in seconds instead of waiting 15 minutes. Saved prices on your PC only show when the cloud is truly unreachable, never because of an app error.",
+  "pub_date": "2026-10-13T04:02:14.715Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEIyNUg5N1VqNFVWY3M1V3BLTytwSFVXcHAxMDArdmthamgvSHJoR0VsbGhuSDh2N1l4YU9QVm5xSko2OU12V3lNbFFzaU03RHoraXFQdmxacU1nb3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU3MzU2CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjJfeDY0LXNldHVwLmV4ZQoySG1MYlVFY2Q3MXRRMWdoZnlWRGhrYW9DUnJBc0xsZGhHV0I2M2JUU2dob2VGNUgra3ZpNHBzQnFIbytlNndGWG5DTTZwTnpVbHdjMXRuTDZUSlhDZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.62/Benchmark.TCG_0.3.62_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWElOYW9rL0JYRHBmZHpYdkEzSGRpeE5PRzIzOUhqVGZqWlY1aFN5WVNvSitvTU93SEJ0K2NyK0I2cFROTS9ybUkwMEUva3JsTy9aVU9OMEk2M3VaVndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODYzNTU0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjNfeDY0LXNldHVwLmV4ZQpkY0Y2Tnh4Ty9KaGZjcmZhZml3UnhPQ3dtQVF3NCtyT1Z5a2lIdm8wbnprYUlFeURGckwyVDY4eTJ2RTE5K2VkUURaZmtLNWc0c0VrenV2NmdCMCtCQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.63/Benchmark.TCG_0.3.63_x64-setup.exe"
     }
   }
 }
