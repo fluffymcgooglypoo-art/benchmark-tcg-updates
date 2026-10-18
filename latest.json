@@ -1,11 +1,11 @@
 {
-  "version": "0.3.63",
-  "notes": "Prices stop showing the loading wheel once a price is on screen. Buyout and the scan panel ask for the exact version you pick, so a new version prices in seconds instead of waiting 15 minutes. Saved prices on your PC only show when the cloud is truly unreachable, never because of an app error.",
-  "pub_date": "2026-10-13T04:02:14.715Z",
+  "version": "0.3.64",
+  "notes": "Obi on stream: say Obi, add Raichu to Shane's bag or let chat claim it, a bubble for OBS, and bag totals when chat asks. Sealed product (ETBs, booster boxes, bundles, blisters) in the catalog with TCGplayer and eBay links. Pricing Flow: Accept all, Ignore, Challenge on the side prices, a dollar filter, and Same runs most expensive first. Faster eBay searches, eBay links on buyout cards, the Ship page fills the address, and two pricing rule fixes.",
+  "pub_date": "2026-10-18T21:14:29.191Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWElOYW9rL0JYRHBmZHpYdkEzSGRpeE5PRzIzOUhqVGZqWlY1aFN5WVNvSitvTU93SEJ0K2NyK0I2cFROTS9ybUkwMEUva3JsTy9aVU9OMEk2M3VaVndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODYzNTU0CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjNfeDY0LXNldHVwLmV4ZQpkY0Y2Tnh4Ty9KaGZjcmZhZml3UnhPQ3dtQVF3NCtyT1Z5a2lIdm8wbnprYUlFeURGckwyVDY4eTJ2RTE5K2VkUURaZmtLNWc0c0VrenV2NmdCMCtCQT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.63/Benchmark.TCG_0.3.63_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWFBtdUxEbUxIZjNML2xiZ09iNC9xQ0lISnlNMnQxVDBlK3prbHJzVTRNZlNkSGNHRkE3MTBudkxVUnh6UWpGWEp3NDhCcnN0K00zUFg3ck1ZMUZIQXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzU3OTA1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjRfeDY0LXNldHVwLmV4ZQpTVXU3dmdKRzMvbERuMTh6VjhvNzBnenVXbTcyK1h0ZHBwMGtEWVo1SUVOc3laVVBZdm5rbkk5TURQTkFmclNsU3JRVVRxdVZ3bjE1bjExMmFuaXJDUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.64/Benchmark.TCG_0.3.64_x64-setup.exe"
     }
   }
 }
