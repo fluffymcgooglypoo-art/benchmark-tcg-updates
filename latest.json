@@ -1,11 +1,11 @@
 {
-  "version": "0.3.64",
-  "notes": "Obi on stream: say Obi, add Raichu to Shane's bag or let chat claim it, a bubble for OBS, and bag totals when chat asks. Sealed product (ETBs, booster boxes, bundles, blisters) in the catalog with TCGplayer and eBay links. Pricing Flow: Accept all, Ignore, Challenge on the side prices, a dollar filter, and Same runs most expensive first. Faster eBay searches, eBay links on buyout cards, the Ship page fills the address, and two pricing rule fixes.",
-  "pub_date": "2026-10-18T21:14:29.191Z",
+  "version": "0.3.65",
+  "notes": "Benchmark Pricing: era filter (Modern, Mid era, Vintage), edit your price right there, one Challenge under Checked, one Accept moves every copy; faster Accept and tab switches; pricing formula v1.8 and Chinese/Korean listings kept off Current listings",
+  "pub_date": "2026-10-19T02:36:40.740Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWFBtdUxEbUxIZjNML2xiZ09iNC9xQ0lISnlNMnQxVDBlK3prbHJzVTRNZlNkSGNHRkE3MTBudkxVUnh6UWpGWEp3NDhCcnN0K00zUFg3ck1ZMUZIQXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzU3OTA1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjRfeDY0LXNldHVwLmV4ZQpTVXU3dmdKRzMvbERuMTh6VjhvNzBnenVXbTcyK1h0ZHBwMGtEWVo1SUVOc3laVVBZdm5rbkk5TURQTkFmclNsU3JRVVRxdVZ3bjE1bjExMmFuaXJDUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.64/Benchmark.TCG_0.3.64_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEt6OWpjWWpVRmVIZ2dMc1I2MkRPZDg3bWhiK3VncU9XazAxWnBPb0hEZmI2VGxxeGV5VjlzdEdPV2d0S2lYaHBQbkJpMUQzbWF3OE5ZNm55Q1FFd3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzc2ODYxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjVfeDY0LXNldHVwLmV4ZQpWbTdCaEdWN1BTQzFRYTg0Zko4eFFvaG50MkRreE92cjllakxsUFh3L1Y1bzEweU1sY1J4WnhFamNuSnlyNmgreXUwRDFqUTAyWVo5Tm9tVGZSNzlCdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.65/Benchmark.TCG_0.3.65_x64-setup.exe"
     }
   }
 }
