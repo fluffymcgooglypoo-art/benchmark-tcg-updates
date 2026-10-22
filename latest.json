@@ -1,11 +1,11 @@
 {
-  "version": "0.3.65",
-  "notes": "Benchmark Pricing: era filter (Modern, Mid era, Vintage), edit your price right there, one Challenge under Checked, one Accept moves every copy; faster Accept and tab switches; pricing formula v1.8 and Chinese/Korean listings kept off Current listings",
-  "pub_date": "2026-10-19T02:36:40.740Z",
+  "version": "0.3.66",
+  "notes": "Security update after our hosting provider's incident: Benchmark now signs in with new keys. Install this update, then sign in again if the app asks. Nothing else changes.",
+  "pub_date": "2026-10-22T04:10:09.326Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEt6OWpjWWpVRmVIZ2dMc1I2MkRPZDg3bWhiK3VncU9XazAxWnBPb0hEZmI2VGxxeGV5VjlzdEdPV2d0S2lYaHBQbkJpMUQzbWF3OE5ZNm55Q1FFd3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzc2ODYxCWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjVfeDY0LXNldHVwLmV4ZQpWbTdCaEdWN1BTQzFRYTg0Zko4eFFvaG50MkRreE92cjllakxsUFh3L1Y1bzEweU1sY1J4WnhFamNuSnlyNmgreXUwRDFqUTAyWVo5Tm9tVGZSNzlCdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.65/Benchmark.TCG_0.3.65_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERMUVd0MkhUa2o1TVowUUJaT1JIQjlOcktPcGZNbDRCYmJGRnN5c2V0R1ZlMFV4eExYWUFydWJFOVNmcjkwenZNYnZGbVA0T1Z2anJuZnpCN0tpRndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQyMDI5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjZfeDY0LXNldHVwLmV4ZQpKQm9qaGZPTTdRdUpVOUNrYWNNWEZYc1k3UW9telFHbml0ckRtdUtDcmd1a01oc21KUEhUMlZ2cElsdXZLNnNuc0EzTjhwekRjS1NVRzZGL0lPeEVEdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.66/Benchmark.TCG_0.3.66_x64-setup.exe"
     }
   }
 }
