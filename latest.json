@@ -1,11 +1,11 @@
 {
-  "version": "0.3.67",
-  "notes": "Sealed products and slabs price from real eBay sales everywhere, booster packs and number-less cards search eBay by their full names, Trade items keep their picture and links, Stream Mode takes a bag total and a card removal by voice, the Ship page has an insured value box, and a slab cert lookup waits out the grader's automatic check",
-  "pub_date": "2026-10-25T04:26:09.867Z",
+  "version": "0.3.68",
+  "notes": "Obi joins the app: say Hey Obi in Stream Mode to add, total, remove or mark paid; he answers chat on stream; type to him in the new Obi panel to reprice, move, delete or add cards with a yes card first; he files bug reports into Feedback. eBay sellers with negative feedback no longer count toward prices.",
+  "pub_date": "2026-10-25T21:32:05.198Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE83R2ZobkpmejFwSC9tV1lPTWRXcW4yNHBpN2M5aGYrSUlVZjc2cEx6OXZ6RGN1c05Ka2wzcjB6bUMyMG04cFc3RnpvYkU3eHI1M2oxTUtYcmt6REFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTAwMjg4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjdfeDY0LXNldHVwLmV4ZQpRUTM4b3NBcTNlZ3U1Y2NCUXlKTnBHMnNhVE0ya0FaeFZqQXI5SGtoVXVKK014TjhrU1NOaHhpN2lTSjB6QzJzdmJGSlgwUXd2Ym9KNjZ6bGxJb0VBUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.67/Benchmark.TCG_0.3.67_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE96K3dWdmZXZ0NXSUtuWHNIRGl3TWRnNldKdkJFa0dsd2tmNm1iSlY0NzRVNXdGejNFT0kxZW9vSmh6TTNXem42NktzbHZaNU0zeGxrdjlWTkNERXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYxNjY5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjhfeDY0LXNldHVwLmV4ZQpJbndZRjJ4Qy91VVhmUC9uZ3hRNGt5MW1sanZEMktPeXNTRmJsK3JZUDRuOFE2bTZuQ2l5VXRCRkNqd3psN2F0UTB1aU40ZXBaTytLWFBCemFJaDlDZz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.68/Benchmark.TCG_0.3.68_x64-setup.exe"
     }
   }
 }
