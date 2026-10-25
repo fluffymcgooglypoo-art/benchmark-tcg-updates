@@ -1,11 +1,11 @@
 {
-  "version": "0.3.68",
-  "notes": "Obi joins the app: say Hey Obi in Stream Mode to add, total, remove or mark paid; he answers chat on stream; type to him in the new Obi panel to reprice, move, delete or add cards with a yes card first; he files bug reports into Feedback. eBay sellers with negative feedback no longer count toward prices.",
-  "pub_date": "2026-10-25T21:32:05.198Z",
+  "version": "0.3.69",
+  "notes": "Hey Obi now talks back: anything you say to him after Hey Obi gets a real answer in his bubble on stream. The bubble fits any answer, however long, and long answers stay up longer.",
+  "pub_date": "2026-10-25T22:57:13.355Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE96K3dWdmZXZ0NXSUtuWHNIRGl3TWRnNldKdkJFa0dsd2tmNm1iSlY0NzRVNXdGejNFT0kxZW9vSmh6TTNXem42NktzbHZaNU0zeGxrdjlWTkNERXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYxNjY5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjhfeDY0LXNldHVwLmV4ZQpJbndZRjJ4Qy91VVhmUC9uZ3hRNGt5MW1sanZEMktPeXNTRmJsK3JZUDRuOFE2bTZuQ2l5VXRCRkNqd3psN2F0UTB1aU40ZXBaTytLWFBCemFJaDlDZz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.68/Benchmark.TCG_0.3.68_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE95RERER1J3bEh0NXhQNGpFRmttYzNwaHh2VW11WWhWZk5wQ0NCOUJMOXF6R1oxN0UwZHN1OUpJL3lzZ2FDcUVzQzAxNTNYUEcxaVgzOFpVQnI2WEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTY4NzA1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjlfeDY0LXNldHVwLmV4ZQpGVzdtcWZYMTBMaCtlS1pYTnJmTlp1TEEyQjBSWUFWWFlkZUV3MzVPUXBXNzEwTHA4QTlsamJrL3IrZnZqbkRiS1pmbVNIRTQwSWt4USt6UGFvSGRBdz09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.69/Benchmark.TCG_0.3.69_x64-setup.exe"
     }
   }
 }
