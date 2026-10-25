@@ -1,11 +1,11 @@
 {
-  "version": "0.3.66",
-  "notes": "Security update after our hosting provider's incident: Benchmark now signs in with new keys. Install this update, then sign in again if the app asks. Nothing else changes.",
-  "pub_date": "2026-10-22T04:10:09.326Z",
+  "version": "0.3.67",
+  "notes": "Sealed products and slabs price from real eBay sales everywhere, booster packs and number-less cards search eBay by their full names, Trade items keep their picture and links, Stream Mode takes a bag total and a card removal by voice, the Ship page has an insured value box, and a slab cert lookup waits out the grader's automatic check",
+  "pub_date": "2026-10-25T04:26:09.867Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWERMUVd0MkhUa2o1TVowUUJaT1JIQjlOcktPcGZNbDRCYmJGRnN5c2V0R1ZlMFV4eExYWUFydWJFOVNmcjkwenZNYnZGbVA0T1Z2anJuZnpCN0tpRndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQyMDI5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjZfeDY0LXNldHVwLmV4ZQpKQm9qaGZPTTdRdUpVOUNrYWNNWEZYc1k3UW9telFHbml0ckRtdUtDcmd1a01oc21KUEhUMlZ2cElsdXZLNnNuc0EzTjhwekRjS1NVRzZGL0lPeEVEdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.66/Benchmark.TCG_0.3.66_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE83R2ZobkpmejFwSC9tV1lPTWRXcW4yNHBpN2M5aGYrSUlVZjc2cEx6OXZ6RGN1c05Ka2wzcjB6bUMyMG04cFc3RnpvYkU3eHI1M2oxTUtYcmt6REFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTAwMjg4CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjdfeDY0LXNldHVwLmV4ZQpRUTM4b3NBcTNlZ3U1Y2NCUXlKTnBHMnNhVE0ya0FaeFZqQXI5SGtoVXVKK014TjhrU1NOaHhpN2lTSjB6QzJzdmJGSlgwUXd2Ym9KNjZ6bGxJb0VBUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.67/Benchmark.TCG_0.3.67_x64-setup.exe"
     }
   }
 }
