@@ -1,11 +1,11 @@
 {
-  "version": "0.3.69",
-  "notes": "Hey Obi now talks back: anything you say to him after Hey Obi gets a real answer in his bubble on stream. The bubble fits any answer, however long, and long answers stay up longer.",
-  "pub_date": "2026-10-25T22:57:13.355Z",
+  "version": "0.3.70",
+  "notes": "Obi grows up on stream: a mood for every sentence, memory of the night, moving cards between bags and changing a bag price on your word, and he always calls you Fluffy. New Stream Control screen runs the whole stream with OBS, boots Obi and sets his stage, and chat claims keep bagging on any page.",
+  "pub_date": "2026-10-31T21:07:03.672Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWE95RERER1J3bEh0NXhQNGpFRmttYzNwaHh2VW11WWhWZk5wQ0NCOUJMOXF6R1oxN0UwZHN1OUpJL3lzZ2FDcUVzQzAxNTNYUEcxaVgzOFpVQnI2WEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTY4NzA1CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNjlfeDY0LXNldHVwLmV4ZQpGVzdtcWZYMTBMaCtlS1pYTnJmTlp1TEEyQjBSWUFWWFlkZUV3MzVPUXBXNzEwTHA4QTlsamJrL3IrZnZqbkRiS1pmbVNIRTQwSWt4USt6UGFvSGRBdz09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.69/Benchmark.TCG_0.3.69_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEZYS3d6aloydHpHVStINHo5bzA3Q0V2Z3BTREdaTkF4c0hhaVNEdXRXaW5Qd0tLYUVOVTVoRHJZcVNDK0Q5cEo3U0xSc25mZksyYUd2eXFBNFdnUlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDgwMDE5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNzBfeDY0LXNldHVwLmV4ZQpNLzVFa294bndVZXNyWFIrK1N2cTNXZ0ZueW1va0hUbHNjQ2x5Wk91bHRML21jSEdVS3l0OHg1OGFTYlVkSThjdUdjakhZV1NPLzh2azQrdk1LZlBEUT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.70/Benchmark.TCG_0.3.70_x64-setup.exe"
     }
   }
 }
