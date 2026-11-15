@@ -1,11 +1,11 @@
 {
-  "version": "0.3.70",
-  "notes": "Obi grows up on stream: a mood for every sentence, memory of the night, moving cards between bags and changing a bag price on your word, and he always calls you Fluffy. New Stream Control screen runs the whole stream with OBS, boots Obi and sets his stage, and chat claims keep bagging on any page.",
-  "pub_date": "2026-10-31T21:07:03.672Z",
+  "version": "0.3.71",
+  "notes": "Stream Obi gets his trimmed voice, the words box and costume words; bags stay on top and move on a click or by voice; better eBay searches for catch-all and slab cards; accepted offers stay out of the price; next month price range; sealed product prices; staff roles with every action locked to its box; mileage log; shipping emails and buyer name lookup; automatic backups; lot quantity follows NFC; a lighter sky; many fixes",
+  "pub_date": "2026-11-15T20:19:28.366Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWEZYS3d6aloydHpHVStINHo5bzA3Q0V2Z3BTREdaTkF4c0hhaVNEdXRXaW5Qd0tLYUVOVTVoRHJZcVNDK0Q5cEo3U0xSc25mZksyYUd2eXFBNFdnUlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDgwMDE5CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNzBfeDY0LXNldHVwLmV4ZQpNLzVFa294bndVZXNyWFIrK1N2cTNXZ0ZueW1va0hUbHNjQ2x5Wk91bHRML21jSEdVS3l0OHg1OGFTYlVkSThjdUdjakhZV1NPLzh2azQrdk1LZlBEUT09Cg==",
-      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.70/Benchmark.TCG_0.3.70_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFVUbzlEY2srWENWeCszOVJJbm9qWnhzTEhNUW8waVcwNWw4dmVMUzBTMmhYMU1jWFYrQkNISjYzUmxVUFBYb0JEY0UwbzBjRlhveGtTUjRnWWlKVWdnWEczbklHOXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY5NjU2CWZpbGU6QmVuY2htYXJrIFRDR18wLjMuNzFfeDY0LXNldHVwLmV4ZQpWb3V5Syt3V0g0YlVyTDUzR3JJbnRTdFI1NFFzaGIzaGQ1YkI3YzRjTGdnMzV3aEFBVTRkMWFNNHFQdkY3ZkFnWURueVhHODN6RDJRQ2xXUHNxY2hEQT09Cg==",
+      "url": "https://github.com/fluffymcgooglypoo-art/benchmark-tcg-updates/releases/download/v0.3.71/Benchmark.TCG_0.3.71_x64-setup.exe"
     }
   }
 }
